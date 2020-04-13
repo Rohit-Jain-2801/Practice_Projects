@@ -5,7 +5,6 @@ Artificial_Neural_Network
 
 <b>References-</b>
 * [TensorFlow Documentation](https://www.tensorflow.org/api_docs/python/tf)
-
 * [A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
 * [Deep study of a not very deep neural network. Part 2: Activation functions](https://towardsdatascience.com/deep-study-of-a-not-very-deep-neural-network-part-2-activation-functions-fd9bd8d406fc)
