@@ -20,3 +20,4 @@ Artificial_Neural_Network
 * [Understanding Dataset Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)
 * [Matthews Correlation Coefficient Is The Best Classification Metric You’ve Never Heard Of](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
 * [A Simple Machine Learning Method to Detect Covariate Shift](https://blog.bigml.com/2014/01/03/simple-machine-learning-to-detect-covariate-shift/)
+* [Kappa Coefficients](https://www.statisticssolutions.com/kappa-coefficients/)
