@@ -55,3 +55,6 @@ Convolutional_Neural_Network
 
 ## Dataset Link-
 * [Horses Or Humans Dataset](http://www.laurencemoroney.com/horses-or-humans-dataset/)
+* Dogs Vs. Cats
+  + [Kaggle](https://www.kaggle.com/c/dogs-vs-cats)
+  + [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
