@@ -51,6 +51,8 @@ Convolutional_Neural_Network
 * [Visualizing intermediate activation in Convolutional Neural Networks with Keras](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0)
 * [Add Labels and Text to Matplotlib Plots: Annotation Examples](http://queirozf.com/entries/add-labels-and-text-to-matplotlib-plots-annotation-examples)
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
+* [Hitchhiker’s Guide to Residual Networks (ResNet) in Keras](https://towardsdatascience.com/hitchhikers-guide-to-residual-networks-resnet-in-keras-385ec01ec8ff)
+* [Classification of Flowers using Tensorflow 2.0](https://www.back-prop.com/deep_learning/inceptionv3/tf_flowers/feature_extraction/fine_tuning/google_colab/2019/05/17/InceptionV3_TFFLOWERS/)
 
 <br/>
 
