@@ -55,6 +55,7 @@ Convolutional_Neural_Network
 * [Classification of Flowers using Tensorflow 2.0](https://www.back-prop.com/deep_learning/inceptionv3/tf_flowers/feature_extraction/fine_tuning/google_colab/2019/05/17/InceptionV3_TFFLOWERS/)
 * [Object detection with YOLO: implementations and how to use them](https://medium.com/@enriqueav/object-detection-with-yolo-implementations-and-how-to-use-them-5da928356035)
 * [COCO and Pascal VOC data format for Object detection](https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5)
+* [Convolutional NeuralNets on Coursera — Part II](https://medium.com/@falconives/100-day-challenge-ii-week-4-15-4b27d2bdc541)
 
 <br/>
 
