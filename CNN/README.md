@@ -56,6 +56,9 @@ Convolutional_Neural_Network
 * [Object detection with YOLO: implementations and how to use them](https://medium.com/@enriqueav/object-detection-with-yolo-implementations-and-how-to-use-them-5da928356035)
 * [COCO and Pascal VOC data format for Object detection](https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5)
 * [Convolutional NeuralNets on Coursera — Part II](https://medium.com/@falconives/100-day-challenge-ii-week-4-15-4b27d2bdc541)
+* [YOLOv3 in Tensorflow](https://medium.com/@shahkaran76/yolo-object-detection-algorithm-in-tensorflow-e080a58fa79b)
+* [RahmadSadli - YOLOv3_TF2](https://github.com/RahmadSadli/Deep-Learning/tree/master/YOLOv3_TF2)
+* [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 
 <br/>
 
