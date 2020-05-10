@@ -19,6 +19,7 @@ Convolutional_Neural_Network
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
 * [A Neural Algorithm of Artistic Style (Neural Style Transfer)](https://arxiv.org/pdf/1508.06576.pdf)
+* [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
 
 <br/>
 
