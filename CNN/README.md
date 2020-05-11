@@ -31,6 +31,7 @@ Convolutional_Neural_Network
 * [Leonardo Araujo dos Santos GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 * [Machine Learning Using Python - Muhammad Rizwan](https://engmrk.com/)
 * [Machine Learning Bites](https://medium.com/machine-learning-bites)
+* [Sefik Ilkin Serengil](https://sefiks.com/)
 * [PapersWithCode: Browse State-of-the-Art](https://paperswithcode.com/sota)
 * [Papers.ReadTheDocs.IO: Deep Learning and stuff papers](https://papers.readthedocs.io/en/latest/)
 * [Summaries of machine learning papers](https://github.com/aleju/papers)
@@ -62,6 +63,8 @@ Convolutional_Neural_Network
 * [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 * [One Shot Learning with Siamese Networks using Keras](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
 * [One Shot learning, Siamese networks and Triplet Loss with Keras](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)
+* [Face Alignment for Face Recognition in Python within OpenCV](https://sefiks.com/2020/02/23/face-alignment-for-face-recognition-in-python-within-opencv/)
+* [Race and Ethnicity Prediction in Keras](https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/)
 
 <br/>
 
