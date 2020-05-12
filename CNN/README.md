@@ -60,6 +60,7 @@ Convolutional_Neural_Network
 * [Convolutional NeuralNets on Coursera — Part II](https://medium.com/@falconives/100-day-challenge-ii-week-4-15-4b27d2bdc541)
 * [YOLOv3 in Tensorflow](https://medium.com/@shahkaran76/yolo-object-detection-algorithm-in-tensorflow-e080a58fa79b)
 * [RahmadSadli - YOLOv3_TF2](https://github.com/RahmadSadli/Deep-Learning/tree/master/YOLOv3_TF2)
+* [iArunava - YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV)
 * [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 * [One Shot Learning with Siamese Networks using Keras](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
 * [One Shot learning, Siamese networks and Triplet Loss with Keras](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)
