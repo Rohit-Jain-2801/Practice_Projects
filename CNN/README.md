@@ -77,7 +77,10 @@ Convolutional_Neural_Network
 * [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
 * [What is Panoptic Segmentation and why you should care](https://medium.com/@danielmechea/what-is-panoptic-segmentation-and-why-you-should-care-7f6c953d2a6a)
 * [An Overview of Human Pose Estimation with Deep Learning](https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b)
+* [A 2019 guide to Human Pose Estimation with Deep Learning](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
 * [Human Pose Estimation with Stacked Hourglass Network and TensorFlow](https://towardsdatascience.com/human-pose-estimation-with-stacked-hourglass-network-and-tensorflow-c4e9f84fd3ce)
+* [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
+* [Human Pose Estimation : Simplified](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
 
 <br/>
 
