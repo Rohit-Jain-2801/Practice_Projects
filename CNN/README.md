@@ -15,6 +15,7 @@ Convolutional_Neural_Network
 * [Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)](https://arxiv.org/pdf/1311.2524.pdf)
 * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+* [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
