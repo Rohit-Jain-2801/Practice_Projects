@@ -16,6 +16,8 @@ Convolutional_Neural_Network
 * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
 * [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+* [Cascade R-CNN: High Quality Object Detection and Instance Segmentation](https://arxiv.org/pdf/1906.09756.pdf)
+* [Panoptic Segmentation](https://arxiv.org/pdf/1801.00868.pdf)
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
@@ -73,6 +75,7 @@ Convolutional_Neural_Network
 * [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
 * [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
 * [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
+* [What is Panoptic Segmentation and why you should care](https://medium.com/@danielmechea/what-is-panoptic-segmentation-and-why-you-should-care-7f6c953d2a6a)
 
 <br/>
 
