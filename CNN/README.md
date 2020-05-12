@@ -66,6 +66,7 @@ Convolutional_Neural_Network
 * [One Shot learning, Siamese networks and Triplet Loss with Keras](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)
 * [Face Alignment for Face Recognition in Python within OpenCV](https://sefiks.com/2020/02/23/face-alignment-for-face-recognition-in-python-within-opencv/)
 * [Race and Ethnicity Prediction in Keras](https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/)
+* [3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/)
 
 <br/>
 
