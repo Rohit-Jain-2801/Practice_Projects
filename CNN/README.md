@@ -72,6 +72,7 @@ Convolutional_Neural_Network
 * [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 * [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
 * [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
+* [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
 
 <br/>
 
