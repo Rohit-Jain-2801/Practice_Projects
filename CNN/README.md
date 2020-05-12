@@ -69,6 +69,9 @@ Convolutional_Neural_Network
 * [Face Alignment for Face Recognition in Python within OpenCV](https://sefiks.com/2020/02/23/face-alignment-for-face-recognition-in-python-within-opencv/)
 * [Race and Ethnicity Prediction in Keras](https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/)
 * [3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/)
+* [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+* [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
+* [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
 
 <br/>
 
