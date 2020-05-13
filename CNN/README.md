@@ -94,8 +94,8 @@ Convolutional_Neural_Network
   + [Philferriere - Optical Flow Prediction with TensorFlow](https://github.com/philferriere/tfoptflow)
   + [The Implementation of Optical Flow in Neural Networks](https://dash.harvard.edu/bitstream/handle/1/39011510/FLETT-SENIORTHESIS-2018.pdf?sequence=5)
 * CSR (Congested Scene Recognition)
- + [It’s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
- + [Neerajj9 - CSRNet-keras](https://github.com/Neerajj9/CSRNet-keras)
+  + [It’s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
+  + [Neerajj9 - CSRNet-keras](https://github.com/Neerajj9/CSRNet-keras)
 
 <br/>
 
