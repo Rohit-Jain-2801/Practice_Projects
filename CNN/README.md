@@ -83,6 +83,7 @@ Convolutional_Neural_Network
 * [Human Pose Estimation : Simplified](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
 * [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
 * [Philferriere - Optical Flow Prediction with TensorFlow](https://github.com/philferriere/tfoptflow)
+* [The Implementation of Optical Flow in Neural Networks](https://dash.harvard.edu/bitstream/handle/1/39011510/FLETT-SENIORTHESIS-2018.pdf?sequence=5)
 
 <br/>
 
