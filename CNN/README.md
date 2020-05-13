@@ -65,7 +65,9 @@ Convolutional_Neural_Network
   + [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
   + [What is Panoptic Segmentation and why you should care](https://medium.com/@danielmechea/what-is-panoptic-segmentation-and-why-you-should-care-7f6c953d2a6a)
 * [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
-* [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
+* SSD (Single Shot Detector)
+  + [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
+  + [Pierluigiferrari - ssd_keras](https://github.com/pierluigiferrari/ssd_keras)
 * Neural Style Transfer
   + [Intuitive Guide to Neural Style Transfer](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-neural-style-transfer-ef88e46697ee)
   + [Neural Style Transfer Tutorial](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
@@ -96,6 +98,8 @@ Convolutional_Neural_Network
 * CSR (Congested Scene Recognition)
   + [It’s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
   + [Neerajj9 - CSRNet-keras](https://github.com/Neerajj9/CSRNet-keras)
+ * OCR (Optical Character Recognition)
+  + [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 
 <br/>
 
