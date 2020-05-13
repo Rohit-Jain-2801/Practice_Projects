@@ -58,6 +58,7 @@ Convolutional_Neural_Network
   + [A Practical Guide to Object Detection using the Popular YOLO Framework – Part III (with Python codes)](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
 * R-CNN
   + [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
+  + [Computer Vision Tutorial: Implementing Mask R-CNN for Image Segmentation (with Python Code)](https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/)
   + [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
   + [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
   + [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
