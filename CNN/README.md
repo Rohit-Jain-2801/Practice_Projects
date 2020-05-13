@@ -98,7 +98,7 @@ Convolutional_Neural_Network
 * CSR (Congested Scene Recognition)
   + [It’s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
   + [Neerajj9 - CSRNet-keras](https://github.com/Neerajj9/CSRNet-keras)
- * OCR (Optical Character Recognition)
+* OCR (Optical Character Recognition)
   + [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 
 <br/>
