@@ -55,7 +55,13 @@ Convolutional_Neural_Network
   + [RahmadSadli - YOLOv3_TF2](https://github.com/RahmadSadli/Deep-Learning/tree/master/YOLOv3_TF2)
   + [iArunava - YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV)
   + [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+* R-CNN
   + [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
+  + [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
+  + [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+  + [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
+  + [What is Panoptic Segmentation and why you should care](https://medium.com/@danielmechea/what-is-panoptic-segmentation-and-why-you-should-care-7f6c953d2a6a)
+* [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
 * Neural Style Transfer
   + [Intuitive Guide to Neural Style Transfer](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-neural-style-transfer-ef88e46697ee)
   + [Neural Style Transfer Tutorial](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
@@ -67,24 +73,22 @@ Convolutional_Neural_Network
 * [Classification of Flowers using Tensorflow 2.0](https://www.back-prop.com/deep_learning/inceptionv3/tf_flowers/feature_extraction/fine_tuning/google_colab/2019/05/17/InceptionV3_TFFLOWERS/)
 * [COCO and Pascal VOC data format for Object detection](https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5)
 * [Convolutional NeuralNets on Coursera — Part II](https://medium.com/@falconives/100-day-challenge-ii-week-4-15-4b27d2bdc541)
-* [One Shot Learning with Siamese Networks using Keras](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
-* [One Shot learning, Siamese networks and Triplet Loss with Keras](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)
-* [Face Alignment for Face Recognition in Python within OpenCV](https://sefiks.com/2020/02/23/face-alignment-for-face-recognition-in-python-within-opencv/)
-* [Race and Ethnicity Prediction in Keras](https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/)
+* Face Detection & Recognition
+  + [One Shot Learning with Siamese Networks using Keras](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
+  + [One Shot learning, Siamese networks and Triplet Loss with Keras](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)
+  + [Face Alignment for Face Recognition in Python within OpenCV](https://sefiks.com/2020/02/23/face-alignment-for-face-recognition-in-python-within-opencv/)
+  + [Race and Ethnicity Prediction in Keras](https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/)
 * [3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/)
-* [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
-* [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
-* [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
-* [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
-* [What is Panoptic Segmentation and why you should care](https://medium.com/@danielmechea/what-is-panoptic-segmentation-and-why-you-should-care-7f6c953d2a6a)
-* [An Overview of Human Pose Estimation with Deep Learning](https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b)
-* [A 2019 guide to Human Pose Estimation with Deep Learning](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
-* [Human Pose Estimation with Stacked Hourglass Network and TensorFlow](https://towardsdatascience.com/human-pose-estimation-with-stacked-hourglass-network-and-tensorflow-c4e9f84fd3ce)
-* [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
-* [Human Pose Estimation : Simplified](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
-* [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
-* [Philferriere - Optical Flow Prediction with TensorFlow](https://github.com/philferriere/tfoptflow)
-* [The Implementation of Optical Flow in Neural Networks](https://dash.harvard.edu/bitstream/handle/1/39011510/FLETT-SENIORTHESIS-2018.pdf?sequence=5)
+* Human Pose Estimation
+  + [An Overview of Human Pose Estimation with Deep Learning](https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b)
+  + [A 2019 guide to Human Pose Estimation with Deep Learning](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
+  + [Human Pose Estimation with Stacked Hourglass Network and TensorFlow](https://towardsdatascience.com/human-pose-estimation-with-stacked-hourglass-network-and-tensorflow-c4e9f84fd3ce)
+  + [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
+  + [Human Pose Estimation : Simplified](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
+* Optical Flow
+  + [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
+  + [Philferriere - Optical Flow Prediction with TensorFlow](https://github.com/philferriere/tfoptflow)
+  + [The Implementation of Optical Flow in Neural Networks](https://dash.harvard.edu/bitstream/handle/1/39011510/FLETT-SENIORTHESIS-2018.pdf?sequence=5)
 
 <br/>
 
