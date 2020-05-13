@@ -24,13 +24,13 @@ Convolutional_Neural_Network
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
 * [A Neural Algorithm of Artistic Style (Neural Style Transfer)](https://arxiv.org/pdf/1508.06576.pdf)
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
+* [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1901/1901.06032.pdf)
+* [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
 
 <br/>
 
-* [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1901/1901.06032.pdf)
 * [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
-* [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
 * [Medium - Sik-Ho Tsang](https://towardsdatascience.com/@sh.tsang)
 * [Leonardo Araujo dos Santos GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 * [Machine Learning Using Python - Muhammad Rizwan](https://engmrk.com/)
@@ -45,10 +45,11 @@ Convolutional_Neural_Network
   + [Data Augmentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
   + [1000x Faster Data Augmentation - Population Based Augmentation (PBA)](https://bair.berkeley.edu/blog/2019/06/07/data_aug/)
   + [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/)
-* [Joseph Chet Redmon (YOLO)](https://pjreddie.com/)
-* [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
-* [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
-* [Object Detection YOLO v1 , v2, v3](https://medium.com/@venkatakrishna.jonnalagadda/object-detection-yolo-v1-v2-v3-c3d5eca2312a)
+* YOLO (You Only Look Once)
+  + [Joseph Chet Redmon (YOLO)](https://pjreddie.com/)
+  + [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
+  + [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
+  + [Object Detection YOLO v1 , v2, v3](https://medium.com/@venkatakrishna.jonnalagadda/object-detection-yolo-v1-v2-v3-c3d5eca2312a)
 * [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
 * Neural Style Transfer
   + [Intuitive Guide to Neural Style Transfer](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-neural-style-transfer-ef88e46697ee)
