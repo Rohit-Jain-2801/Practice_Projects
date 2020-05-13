@@ -55,12 +55,14 @@ Convolutional_Neural_Network
   + [RahmadSadli - YOLOv3_TF2](https://github.com/RahmadSadli/Deep-Learning/tree/master/YOLOv3_TF2)
   + [iArunava - YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV)
   + [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+  + [A Practical Guide to Object Detection using the Popular YOLO Framework – Part III (with Python codes)](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
 * R-CNN
-  + [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
+  + [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
   + [How to Use Mask R-CNN in Keras for Object Detection in Photographs](https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/)
   + [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
   + [Facebook Research - Detectron2](https://github.com/facebookresearch/detectron2)
   + [What is Panoptic Segmentation and why you should care](https://medium.com/@danielmechea/what-is-panoptic-segmentation-and-why-you-should-care-7f6c953d2a6a)
+* [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
 * [Review: SSD — Single Shot Detector (Object Detection)](https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11)
 * Neural Style Transfer
   + [Intuitive Guide to Neural Style Transfer](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-neural-style-transfer-ef88e46697ee)
