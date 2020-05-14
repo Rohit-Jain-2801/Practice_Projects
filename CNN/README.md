@@ -101,6 +101,7 @@ Convolutional_Neural_Network
   + [Neerajj9 - CSRNet-keras](https://github.com/Neerajj9/CSRNet-keras)
 * OCR (Optical Character Recognition)
   + [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
+* [Demystifying Convolutional Neural Networks Using Class Activation Maps](https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1)
 
 <br/>
 
