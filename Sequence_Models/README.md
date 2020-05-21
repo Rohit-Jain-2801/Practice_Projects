@@ -24,5 +24,3 @@ Working with sequences!
 * [What is a Recurrent Neural Networks (RNNS) and Gated Recurrent Unit (GRUS)](https://medium.com/@george.drakos62/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69)
 * [When to use GRU over LSTM?](https://datascience.stackexchange.com/questions/14581/when-to-use-gru-over-lstm)
 * [An Introduction to t-SNE with Python Example](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
-* [A Beginner's Guide to Word2Vec and Neural Word Embeddings](https://pathmind.com/wiki/word2vec)
-* [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
