@@ -63,6 +63,7 @@ Convolutional_Neural_Network
 * [COCO and Pascal VOC data format for Object detection](https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5)
 * [Convolutional NeuralNets on Coursera — Part II](https://medium.com/@falconives/100-day-challenge-ii-week-4-15-4b27d2bdc541)
 * [3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/)
+* [10 TensorFlow Tricks Every ML Practitioner Must Know](https://towardsdatascience.com/10-tensorflow-tricks-every-ml-practitioner-must-know-96b860e53c1)
 * YOLO (You Only Look Once)
   + [Joseph Chet Redmon (YOLO)](https://pjreddie.com/)
   + [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
