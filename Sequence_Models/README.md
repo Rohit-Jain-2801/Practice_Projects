@@ -14,6 +14,11 @@ Working with sequences!
 * [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
+* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+* [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)
+* [Deep Captioning With Multimodal Recurrent Neural Networks (M-RNN)](https://arxiv.org/pdf/1412.6632.pdf)
+* [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf)
+* [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/pdf/1412.2306.pdf)
 
 <br/>
 
