@@ -23,6 +23,7 @@ Working with sequences!
 * [Neural Machine Translation by Jointly Learning to Align and Translate (Attention Model)](https://arxiv.org/pdf/1409.0473.pdf)
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 * [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (CTC Cost)](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+* [Advancing Acoustic-to-Word CTC Model with Attention and Mixed-Units](https://arxiv.org/pdf/1812.11928.pdf)
 
 <br/>
 
