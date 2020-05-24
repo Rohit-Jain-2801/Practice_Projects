@@ -34,3 +34,4 @@ Working with sequences!
 * [What is a Recurrent Neural Networks (RNNS) and Gated Recurrent Unit (GRUS)](https://medium.com/@george.drakos62/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69)
 * [When to use GRU over LSTM?](https://datascience.stackexchange.com/questions/14581/when-to-use-gru-over-lstm)
 * [An Introduction to t-SNE with Python Example](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
+* [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
