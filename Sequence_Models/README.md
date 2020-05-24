@@ -15,10 +15,14 @@ Working with sequences!
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
 * [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
-* [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)
+* [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation (Seq-to-Seq)](https://arxiv.org/pdf/1406.1078.pdf)
 * [Deep Captioning With Multimodal Recurrent Neural Networks (M-RNN)](https://arxiv.org/pdf/1412.6632.pdf)
 * [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf)
-* [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/pdf/1412.2306.pdf)
+* [Deep Visual-Semantic Alignments for Generating Image Descriptions (Image Captioning)](https://arxiv.org/pdf/1412.2306.pdf)
+* [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf)
+* [Neural Machine Translation by Jointly Learning to Align and Translate (Attention Model)](https://arxiv.org/pdf/1409.0473.pdf)
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
+* [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (CTC Cost)](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 
 <br/>
 
