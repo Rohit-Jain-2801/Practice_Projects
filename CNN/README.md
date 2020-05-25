@@ -28,6 +28,7 @@ Convolutional_Neural_Network
 * [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1901/1901.06032.pdf)
 * [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
 * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
+* [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
 
 <br/>
 
@@ -76,6 +77,7 @@ Convolutional_Neural_Network
   + [iArunava - YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV)
   + [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
   + [A Practical Guide to Object Detection using the Popular YOLO Framework – Part III (with Python codes)](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
+  + [YOLOv4 — Superior, Faster & More Accurate Object Detection](https://medium.com/@riteshkanjee/yolov4-superior-faster-more-accurate-object-detection-7e8194bf1872)
 * R-CNN
   + [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
   + [Computer Vision Tutorial: Implementing Mask R-CNN for Image Segmentation (with Python Code)](https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/)
