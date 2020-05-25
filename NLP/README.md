@@ -35,3 +35,4 @@ Natural Language Processing
 * [Intuitive Guide to Understanding GloVe Embeddings](https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010)
 * [Gensim Tutorial – A Complete Beginners Guide](https://www.machinelearningplus.com/nlp/gensim-tutorial/)
 * [Gensim Official Documentation](https://radimrehurek.com/gensim/auto_examples/index.html)
+* [Xiamx - Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
