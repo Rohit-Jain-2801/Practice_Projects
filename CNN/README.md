@@ -27,6 +27,7 @@ Convolutional_Neural_Network
 * [CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes](https://arxiv.org/pdf/1802.10062.pdf)
 * [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1901/1901.06032.pdf)
 * [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
+* [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
 
 <br/>
 
@@ -97,12 +98,14 @@ Convolutional_Neural_Network
   + [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
   + [Philferriere - Optical Flow Prediction with TensorFlow](https://github.com/philferriere/tfoptflow)
   + [The Implementation of Optical Flow in Neural Networks](https://dash.harvard.edu/bitstream/handle/1/39011510/FLETT-SENIORTHESIS-2018.pdf?sequence=5)
+  + [How I created the Workout Movement Counting App using Deep Learning and Optical Flow Algorithm](https://towardsdatascience.com/how-i-created-the-workout-movement-counting-app-using-deep-learning-and-optical-flow-89f9d2e087ac)
 * CSR (Congested Scene Recognition)
   + [It’s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
   + [Neerajj9 - CSRNet-keras](https://github.com/Neerajj9/CSRNet-keras)
 * OCR (Optical Character Recognition)
   + [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 * [Demystifying Convolutional Neural Networks Using Class Activation Maps](https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1)
+* [Automl - Efficientdet](https://github.com/google/automl/tree/master/efficientdet)
 
 <br/>
 
