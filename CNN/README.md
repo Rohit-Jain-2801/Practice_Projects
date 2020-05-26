@@ -118,3 +118,9 @@ Convolutional_Neural_Network
   + [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
 * [Intel Image Classification](https://www.kaggle.com/puneet6060/intel-image-classification#10004.jpg)
 * [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist)
+* [5 Celebrity Faces Dataset](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset)
+* [TensorFlow - Fashion MNIST](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data)
+* [TensorFlow - MNIST](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data)
+* TensorFlow For Poets
+  + [CodeLabs - TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
+  + [TensorFlow - tf_flowers](https://www.tensorflow.org/datasets/catalog/tf_flowers)
