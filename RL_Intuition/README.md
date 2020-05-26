@@ -12,3 +12,4 @@ Reinforcement Learning
 * [Introduction to Various Reinforcement Learning Algorithms. Part II (TRPO, PPO)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
 * [YouTube.com - Reinforcement Learning - Edureka (Escape_Room)](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 * [YouTube.com - Reinforcement Learning - Deeplizard (FrozenLake-v0, CartPole-v0)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+* [DennyBritz - Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)
