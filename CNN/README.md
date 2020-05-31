@@ -110,6 +110,7 @@ Convolutional_Neural_Network
   + [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 * [Demystifying Convolutional Neural Networks Using Class Activation Maps](https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1)
 * [Automl - Efficientdet](https://github.com/google/automl/tree/master/efficientdet)
+* [Awsome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
 
 <br/>
 
