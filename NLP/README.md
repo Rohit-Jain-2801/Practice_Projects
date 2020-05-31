@@ -33,6 +33,7 @@ Natural Language Processing
 * [What is the main difference between word2vec and fastText?](https://www.quora.com/What-is-the-main-difference-between-word2vec-and-fastText)
 * [What is Glove?](https://medium.com/@japneet121/word-vectorization-using-glove-76919685ee0b)
 * [Intuitive Guide to Understanding GloVe Embeddings](https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010)
+* [Basics of Using Pre-trained GloVe Vectors in Python](https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db)
 * [Gensim Tutorial – A Complete Beginners Guide](https://www.machinelearningplus.com/nlp/gensim-tutorial/)
 * [Gensim Official Documentation](https://radimrehurek.com/gensim/auto_examples/index.html)
 * [Xiamx - Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
