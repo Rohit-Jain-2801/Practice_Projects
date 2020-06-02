@@ -97,6 +97,7 @@ Convolutional_Neural_Network
   + [Human Pose Estimation with Stacked Hourglass Network and TensorFlow](https://towardsdatascience.com/human-pose-estimation-with-stacked-hourglass-network-and-tensorflow-c4e9f84fd3ce)
   + [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
   + [Human Pose Estimation : Simplified](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
+  + [Human Pose Estimation with Deep Learning](https://zhangtemplar.github.io/pose/)
   + [3D human pose estimation in video with temporal convolutions and semi-supervised training](https://dariopavllo.github.io/VideoPose3D/)
 * Optical Flow
   + [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
