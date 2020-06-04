@@ -29,6 +29,7 @@ Convolutional_Neural_Network
 * [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
 * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
+* [First Order Motion Model for Image Animation](https://arxiv.org/pdf/2003.00196.pdf)
 
 <br/>
 
@@ -111,6 +112,7 @@ Convolutional_Neural_Network
   + [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 * [Demystifying Convolutional Neural Networks Using Class Activation Maps](https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1)
 * [Automl - Efficientdet](https://github.com/google/automl/tree/master/efficientdet)
+* [Aliaksandr Siarohin - First Order Model](https://github.com/AliaksandrSiarohin/first-order-model)
 * [Awsome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
 
 <br/>
