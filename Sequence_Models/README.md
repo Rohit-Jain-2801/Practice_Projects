@@ -35,5 +35,6 @@ Working with sequences!
 * [What is a Recurrent Neural Networks (RNNS) and Gated Recurrent Unit (GRUS)](https://medium.com/@george.drakos62/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69)
 * [When to use GRU over LSTM?](https://datascience.stackexchange.com/questions/14581/when-to-use-gru-over-lstm)
 * [An Introduction to t-SNE with Python Example](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
-* [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+* [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
+* [Keon - Awesome NLP](https://github.com/keon/awesome-nlp)
