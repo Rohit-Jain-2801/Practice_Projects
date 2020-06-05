@@ -80,6 +80,7 @@ Convolutional_Neural_Network
   + [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
   + [A Practical Guide to Object Detection using the Popular YOLO Framework – Part III (with Python codes)](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
   + [YOLOv4 — Superior, Faster & More Accurate Object Detection](https://medium.com/@riteshkanjee/yolov4-superior-faster-more-accurate-object-detection-7e8194bf1872)
+  + [YOLO v4: Optimal Speed & Accuracy for object detection](https://towardsdatascience.com/yolo-v4-optimal-speed-accuracy-for-object-detection-79896ed47b50)
 * R-CNN
   + [Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
   + [Computer Vision Tutorial: Implementing Mask R-CNN for Image Segmentation (with Python Code)](https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/)
@@ -113,6 +114,7 @@ Convolutional_Neural_Network
 * [Demystifying Convolutional Neural Networks Using Class Activation Maps](https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1)
 * [Automl - Efficientdet](https://github.com/google/automl/tree/master/efficientdet)
 * [Aliaksandr Siarohin - First Order Model](https://github.com/AliaksandrSiarohin/first-order-model)
+* [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)
 * [Awsome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
 
 <br/>
