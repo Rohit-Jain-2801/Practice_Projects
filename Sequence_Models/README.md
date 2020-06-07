@@ -38,3 +38,4 @@ Working with sequences!
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
 * [Keon - Awesome NLP](https://github.com/keon/awesome-nlp)
+* [MorvanZhou - NLP-Tutorials](https://github.com/MorvanZhou/NLP-Tutorials)
