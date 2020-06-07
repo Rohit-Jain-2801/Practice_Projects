@@ -13435,6 +13435,31 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="SOM-Intuition">SOM Intuition<a class="anchor-link" href="#SOM-Intuition">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li><strong>STEP-1</strong>: We start with a dataset composed of n_features independent variables.</li>
+<li><strong>STEP-2</strong>: We create a grid composed of nodes, each one having a weight vector of n_features elements.</li>
+<li><strong>STEP-3</strong>: Randomly initialize the values of the weight vectors to small numbers cloase to 0 (but not 0).</li>
+<li><strong>STEP-4</strong>: Select one random observation point from the dataset.</li>
+<li><strong>STEP-5</strong>: Compute the Euclidean distances from this point to the different neurons in the network.</li>
+<li><strong>STEP-6</strong>: Select the neuron that has the minimum distance to the point. This neuron is called the winning node.</li>
+<li><strong>STEP-7</strong>: Update the weights of the winning node to move it closer to the point.</li>
+<li><strong>STEP-8</strong>: Using a Gaussian neighbourhood function of mean around the winning node, also update the weights of the winning node neighbours to move them closer to the point. The neighbourhood radius is the sigma in the Gaussian function.</li>
+<li><strong>STEP-9</strong>: Repeat <code>STEPS 1 to 5</code> and update the weights after each observation (Reinforcement Learning) or after a batch of observations (Batch Learning), until the network converges to a point where the neighbourhood stops decreasing.</li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Intializing-SOM">Intializing SOM<a class="anchor-link" href="#Intializing-SOM">&#182;</a></h2>
 </div>
 </div>
