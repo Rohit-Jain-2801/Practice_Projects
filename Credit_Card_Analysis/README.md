@@ -16,7 +16,7 @@ Unsupervised Learning - Clustering Problem
 + PURCHASES_INSTALLMENTS_FREQUENCY - How frequently purchases in installments are being done (1 = frequently done, 0 = not frequently done)
 + CASH_ADVANCE_FREQUENCY - How frequently the cash in advance being paid
 + CASH_ADVANCE_TRX - Number of Transactions made with "Cash in Advanced"
-+ PURCHASES_TRX - Numbe of purchase transactions made
++ PURCHASES_TRX - Number of purchase transactions made
 + CREDIT_LIMIT - Limit of Credit Card for user
 + PAYMENTS - Amount of Payment done by user
 + MINIMUM_PAYMENTS - Minimum amount of payments made by user
