@@ -1,4 +1,4 @@
-# Credit_Card_Analysis
+# Placement_Predictor
 Supervised Learning - Classification + Regression Problem
 
 <br/>
