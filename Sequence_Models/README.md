@@ -37,5 +37,8 @@ Working with sequences!
 * [An Introduction to t-SNE with Python Example](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
+* [Attention — Seq2Seq Models](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263)
 * [Keon - Awesome NLP](https://github.com/keon/awesome-nlp)
 * [MorvanZhou - NLP-Tutorials](https://github.com/MorvanZhou/NLP-Tutorials)
+* [Jay Alammar Blog](https://jalammar.github.io/)
+* [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
