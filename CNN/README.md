@@ -115,6 +115,7 @@ Convolutional_Neural_Network
 * [Demystifying Convolutional Neural Networks Using Class Activation Maps](https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1)
 * [Automl - Efficientdet](https://github.com/google/automl/tree/master/efficientdet)
 * [Aliaksandr Siarohin - First Order Model](https://github.com/AliaksandrSiarohin/first-order-model)
+* [Anish9 - GCPAnet-tensorflow2.2](https://github.com/anish9/GCPAnet-tensorflow2.2)
 * [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)
 * [Awsome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
 
