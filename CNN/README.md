@@ -30,6 +30,7 @@ Convolutional_Neural_Network
 * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
 * [First Order Motion Model for Image Animation](https://arxiv.org/pdf/2003.00196.pdf)
+* [Global Context-Aware Progressive Aggregation Network for Salient Object Detection](https://arxiv.org/pdf/2003.00651.pdf)
 
 <br/>
 
