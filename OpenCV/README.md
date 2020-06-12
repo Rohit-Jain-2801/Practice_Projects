@@ -10,3 +10,5 @@
   - https://www.learnopencv.com/histogram-of-oriented-gradients/
 + OpenCV Tutorial: A Guide to Learn OpenCV
   - https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
++ Top 25 Computer Vision Project Ideas for 2020
+  - https://data-flair.training/blogs/computer-vision-project-ideas/
