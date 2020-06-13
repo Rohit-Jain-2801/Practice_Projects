@@ -40,5 +40,6 @@ Working with sequences!
 * [Attention — Seq2Seq Models](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263)
 * [Keon - Awesome NLP](https://github.com/keon/awesome-nlp)
 * [MorvanZhou - NLP-Tutorials](https://github.com/MorvanZhou/NLP-Tutorials)
+* [Minimaxir - textgenrnn](https://github.com/minimaxir/textgenrnn)
 * [Jay Alammar Blog](https://jalammar.github.io/)
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
