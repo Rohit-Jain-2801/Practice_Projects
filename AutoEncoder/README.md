@@ -1,5 +1,5 @@
 # AutoEncoder
-AutoEncoder_Model
+Unsupervised Deep Learning
 
 <br/>
 
@@ -22,3 +22,4 @@ AutoEncoder_Model
   + [Deep inside: Autoencoders](https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f#:~:text=In%20practice%2C%20we%20usually%20find,another%20task%20such%20as%20classification.)
   + [Different types of Autoencoders](https://iq.opengenus.org/types-of-autoencoder/)
   + [Deep Learning — Different Types of Autoencoders](https://medium.com/datadriveninvestor/deep-learning-different-types-of-autoencoders-41d4fa5f7570)
+* [StackOverFlow - What is the difference between UpSampling2D and Conv2DTranspose functions in keras](https://stackoverflow.com/questions/53654310/what-is-the-difference-between-upsampling2d-and-conv2dtranspose-functions-in-ker)
