@@ -5,15 +5,24 @@ Unsupervised Deep Learning
 
 ## References-
 * [AutoEncoders](http://www.deeplearningbook.org/contents/autoencoders.html)
+* [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression)
+* [Deep Learning Tutorial - Sparse Autoencoder](http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder)
+* [k-Sparse Autoencoders](https://arxiv.org/pdf/1312.5663.pdf)
+* [Extracting and Composing Robust Features with Denoising Autoencoders](http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf)
+* [Contractive Auto-Encoders: Explicit Invariance During Feature Extraction](https://icml.cc/Conferences/2011/papers/455_icmlpaper.pdf)
+* [Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf)
+* [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 * [Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/pdf/1812.05069.pdf)
 * [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf)
 
 <br/>
 
 * [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
-* [Implementing an Autoencoder in TensorFlow 2.0](https://towardsdatascience.com/implementing-an-autoencoder-in-tensorflow-2-0-5e86126e9f7)
-* [TensorFlow - Convolutional Variational Autoencoder](https://www.tensorflow.org/tutorials/generative/cvae)
+* [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Keras - Code Examples](https://keras.io/examples/)
+* [Implementing an Autoencoder in TensorFlow 2.0](https://towardsdatascience.com/implementing-an-autoencoder-in-tensorflow-2-0-5e86126e9f7)
+* [Sparse, Stacked and Variational Autoencoder](https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64)
+* [TensorFlow - Convolutional Variational Autoencoder](https://www.tensorflow.org/tutorials/generative/cvae)
 * [Imransalam - autoencoders_tf2.0](https://github.com/imransalam/autoencoders_tf2.0)
 * [3 Ways to Implement Autoencoders with TensorFlow and Python](https://rubikscode.net/2018/11/26/3-ways-to-implement-autoencoders-with-tensorflow-and-python/)
 * [PyImageSearch - AutoEncoder](https://www.pyimagesearch.com/?s=autoencoder)
