@@ -32,3 +32,9 @@ Unsupervised Deep Learning
   + [Different types of Autoencoders](https://iq.opengenus.org/types-of-autoencoder/)
   + [Deep Learning — Different Types of Autoencoders](https://medium.com/datadriveninvestor/deep-learning-different-types-of-autoencoders-41d4fa5f7570)
 * [StackOverFlow - What is the difference between UpSampling2D and Conv2DTranspose functions in keras](https://stackoverflow.com/questions/53654310/what-is-the-difference-between-upsampling2d-and-conv2dtranspose-functions-in-ker)
+* Image Quality Assessment
+  + [Subjective and Objective Quality Assessment of Image: A Survey](https://arxiv.org/ftp/arxiv/papers/1406/1406.7799.pdf)
+  + [Andrewekhalel - sewar](https://github.com/andrewekhalel/sewar)
+  + [Image Quality Assessment through FSIM, SSIM, MSE and PSNR—A Comparative Study](https://www.scirp.org/journal/paperinformation.aspx?paperid=90911)
+  + [Quality Assessment of Generative Adversarial Networks](https://medium.com/analytics-vidhya/quality-assessment-of-generative-adversarial-networks-369444a0259c)
+  + [Convolutional Neural Networks for No-Reference Image Quality Assessment](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf)
