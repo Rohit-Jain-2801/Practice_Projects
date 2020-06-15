@@ -38,3 +38,4 @@ Unsupervised Deep Learning
   + [Image Quality Assessment through FSIM, SSIM, MSE and PSNR—A Comparative Study](https://www.scirp.org/journal/paperinformation.aspx?paperid=90911)
   + [Quality Assessment of Generative Adversarial Networks](https://medium.com/analytics-vidhya/quality-assessment-of-generative-adversarial-networks-369444a0259c)
   + [Convolutional Neural Networks for No-Reference Image Quality Assessment](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf)
+* [wiseodd - generative-models](https://github.com/wiseodd/generative-models)
