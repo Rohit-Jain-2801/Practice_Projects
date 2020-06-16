@@ -17,7 +17,7 @@ Unsupervised Deep Learning
 
 <br/>
 
-* [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
+* [Jeremy Jordan Blog](https://www.jeremyjordan.me/data-science/)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Keras - Code Examples](https://keras.io/examples/)
 * [Implementing an Autoencoder in TensorFlow 2.0](https://towardsdatascience.com/implementing-an-autoencoder-in-tensorflow-2-0-5e86126e9f7)
@@ -39,3 +39,4 @@ Unsupervised Deep Learning
   + [Quality Assessment of Generative Adversarial Networks](https://medium.com/analytics-vidhya/quality-assessment-of-generative-adversarial-networks-369444a0259c)
   + [Convolutional Neural Networks for No-Reference Image Quality Assessment](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf)
 * [wiseodd - generative-models](https://github.com/wiseodd/generative-models)
+* [YouTube - Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
