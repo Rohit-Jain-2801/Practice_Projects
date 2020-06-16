@@ -14,6 +14,7 @@ Unsupervised Deep Learning
 * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 * [Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/pdf/1812.05069.pdf)
 * [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf)
+* [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 
 <br/>
 
