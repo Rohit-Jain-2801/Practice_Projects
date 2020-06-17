@@ -41,4 +41,5 @@ Unsupervised Deep Learning
   + [Convolutional Neural Networks for No-Reference Image Quality Assessment](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf)
 * [wiseodd - generative-models](https://github.com/wiseodd/generative-models)
 * [YouTube - Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
+* [YouTube - Ali Ghodsi - Variational AutoEncoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
