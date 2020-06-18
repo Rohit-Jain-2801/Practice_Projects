@@ -14,7 +14,9 @@ Unsupervised Deep Learning
 * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 * [Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/pdf/1812.05069.pdf)
 * [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf)
+* [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+* [Conditional Variational Autoencoder for Neural Machine Translation](https://arxiv.org/pdf/1812.04405.pdf)
 
 <br/>
 
@@ -46,4 +48,5 @@ Unsupervised Deep Learning
 * [wiseodd - generative-models](https://github.com/wiseodd/generative-models)
 * [YouTube - Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
 * [YouTube - Ali Ghodsi - Variational AutoEncoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
+* [Understanding Conditional Variational Autoencoders](https://towardsdatascience.com/understanding-conditional-variational-autoencoders-cd62b4f57bf8)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
