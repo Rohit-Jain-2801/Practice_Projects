@@ -16,3 +16,4 @@
 * [Comprehensive Guide to build a Recommendation Engine from scratch (in Python)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 * [Building A Book Recommender System – The Basics, kNN and Matrix Factorization](https://datascienceplus.com/building-a-book-recommender-system-the-basics-knn-and-matrix-factorization/)
 * [Recommendation System (Kaggle Solution)](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system)
+* [Recommendation System Series Part 1: An Executive Guide to Building Recommendation System](https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
