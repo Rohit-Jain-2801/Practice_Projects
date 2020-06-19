@@ -17,6 +17,7 @@ Unsupervised Deep Learning
 * [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 * [Conditional Variational Autoencoder for Neural Machine Translation](https://arxiv.org/pdf/1812.04405.pdf)
+* [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
 
 <br/>
 
