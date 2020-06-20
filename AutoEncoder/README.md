@@ -60,3 +60,4 @@ Unsupervised Deep Learning
   + [Naresh1318 - Adversarial_Autoencoder](https://github.com/Naresh1318/Adversarial_Autoencoder)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [What's the input to the decoder in a sequence to sequence autoencoder?](https://cs.stackexchange.com/questions/69432/whats-the-input-to-the-decoder-in-a-sequence-to-sequence-autoencoder)
+* [Ikhlestov - RBM-based_Autoencoders_with_Tensorflow](https://github.com/ikhlestov/rbm_based_autoencoders_with_tensorflow)
