@@ -43,3 +43,10 @@ Working with sequences!
 * [Minimaxir - textgenrnn](https://github.com/minimaxir/textgenrnn)
 * [Jay Alammar Blog](https://jalammar.github.io/)
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+* Understanding 'units' of LSTM keras layer
+ + [Keras - LSTM layer](https://keras.io/api/layers/recurrent_layers/lstm/)
+ + [What is "units" in LSTM layer of Keras?](https://zhuanlan.zhihu.com/p/58854907)
+ + [In Keras, what exactly am I configuring when I create a stateful `LSTM` layer with N `units`?](https://stackoverflow.com/questions/44273249/in-keras-what-exactly-am-i-configuring-when-i-create-a-stateful-lstm-layer-wi#:~:text=Basically%2C%20the%20unit%20means%20the,be%20unit%20%2Dlength%20as%20well.)
+ + [Understanding Keras LSTMs](https://stackoverflow.com/questions/38714959/understanding-keras-lstms/38737941#38737941)
+ + [Doubts regarding Understanding Keras LSTMs](https://stackoverflow.com/questions/53955093/doubts-regarding-understanding-keras-lstms)
+ + [Keras LSTM tutorial – How to easily build a powerful deep learning language model](https://adventuresinmachinelearning.com/keras-lstm-tutorial/)
