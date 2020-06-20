@@ -3,6 +3,22 @@ Unsupervised Deep Learning
 
 <br/>
 
+## Features-
+* Implemented Different Types of AutoEncoders
+  + [x] Vanilla AutoEncoder
+  + [x] Convolutional AutoEncoder
+  + [x] Sparse AutoEncoder
+  + [x] Denoising AutoEncoder
+  + [x] Contractive AutoEncoder
+  + [x] Variational AutoEncoder
+  + [x] Convolutional Variational AutoEncoder
+  + [x] Conditional Variational AutoEncoder
+  + [ ] Adversarial AutoEncoder
+  + [ ] Deep AutoEncoder
+  + [ ] Seq-to-Seq AutoEncoder
+
+<br/>
+
 ## References-
 * [AutoEncoders](http://www.deeplearningbook.org/contents/autoencoders.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression)
