@@ -18,6 +18,8 @@ Unsupervised Deep Learning
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 * [Conditional Variational Autoencoder for Neural Machine Translation](https://arxiv.org/pdf/1812.04405.pdf)
 * [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
+* [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
+* [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
 
 <br/>
 
@@ -51,3 +53,4 @@ Unsupervised Deep Learning
 * [YouTube - Ali Ghodsi - Variational AutoEncoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 * [Understanding Conditional Variational Autoencoders](https://towardsdatascience.com/understanding-conditional-variational-autoencoders-cd62b4f57bf8)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
+* [What's the input to the decoder in a sequence to sequence autoencoder?](https://cs.stackexchange.com/questions/69432/whats-the-input-to-the-decoder-in-a-sequence-to-sequence-autoencoder)
