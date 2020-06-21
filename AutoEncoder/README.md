@@ -81,6 +81,7 @@ Unsupervised Deep Learning
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [What's the input to the decoder in a sequence to sequence autoencoder?](https://cs.stackexchange.com/questions/69432/whats-the-input-to-the-decoder-in-a-sequence-to-sequence-autoencoder)
 * [Ikhlestov - RBM-based_Autoencoders_with_Tensorflow](https://github.com/ikhlestov/rbm_based_autoencoders_with_tensorflow)
+* [How Variational Autoencoders make classical recommender systems obsolete](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
 * Image Colorization
   + [Automatic Image Colorization Using Machine Learning  ](https://xiangyutang2.github.io/auto-colorization-autoencoders/)
   + [Auto Colorization of Black and White Images using Machine Learning “Auto-encoders” technique](https://becominghuman.ai/auto-colorization-of-black-and-white-images-using-machine-learning-auto-encoders-technique-a213b47f7339)
