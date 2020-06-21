@@ -22,3 +22,7 @@
   + [The Use of Time Dimension in Recommender Systems for Learning](https://www.scitepress.org/Papers/2017/63126/63126.pdf)
   + [Time-Aware Neighbourhood-Based Collaborative Filtering](https://beta.vu.nl/nl/Images/werkstuk-zwart_tcm235-887100.pdf)
   + [It’s Time to Consider ‘Time’ when Evaluating RecommenderSystem Algorithms](https://arxiv.org/ftp/arxiv/papers/1708/1708.08447.pdf)
+  + [Collaborative Filtering with Recurrent Neural Networks](https://arxiv.org/pdf/1608.07400.pdf)
+  + [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems](http://proceedings.mlr.press/v63/ko101.pdf)
+  + [Session-Based Recommendations With Recurrent Neural Networks](https://arxiv.org/pdf/1511.06939.pdf)
+* [Deep Learning For Recommendation Systems](https://awesomeopensource.com/project/robi56/Deep-Learning-for-Recommendation-Systems)
