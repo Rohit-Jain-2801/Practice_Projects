@@ -85,6 +85,9 @@ Unsupervised Deep Learning
   + [Automatic Image Colorization Using Machine Learning  ](https://xiangyutang2.github.io/auto-colorization-autoencoders/)
   + [Auto Colorization of Black and White Images using Machine Learning “Auto-encoders” technique](https://becominghuman.ai/auto-colorization-of-black-and-white-images-using-machine-learning-auto-encoders-technique-a213b47f7339)
   + [Image Colorization using Convolutional Autoencoders](https://towardsdatascience.com/image-colorization-using-convolutional-autoencoders-fdabc1cb1dbe)
+* Reverse Image Search
+  + [Reverse Image Search using Auto-Encoders](https://towardsdatascience.com/reverse-image-search-using-auto-encoders-afbf906970f5)
+  + [Content Based Image Retrieval Using a Convolutional Denoising Autoencoder with Keras](https://www.sicara.ai/blog/2017-09-14-keras-tutorial-content-image-retrieval-convolutional-denoising-autoencoder)
 
 <br/>
 
