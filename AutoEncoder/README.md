@@ -85,3 +85,8 @@ Unsupervised Deep Learning
   + [Automatic Image Colorization Using Machine Learning  ](https://xiangyutang2.github.io/auto-colorization-autoencoders/)
   + [Auto Colorization of Black and White Images using Machine Learning “Auto-encoders” technique](https://becominghuman.ai/auto-colorization-of-black-and-white-images-using-machine-learning-auto-encoders-technique-a213b47f7339)
   + [Image Colorization using Convolutional Autoencoders](https://towardsdatascience.com/image-colorization-using-convolutional-autoencoders-fdabc1cb1dbe)
+
+<br/>
+
+## Datasets-
+* [Anime Sketch Colorization Pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair)
