@@ -16,6 +16,9 @@ Unsupervised Deep Learning
   + [ ] Adversarial AutoEncoder
   + [ ] Deep AutoEncoder
   + [ ] Seq-to-Seq AutoEncoder
+* Recommender System
+* Reverse Image Search
+* Image Colorization
 
 <br/>
 
@@ -36,6 +39,7 @@ Unsupervised Deep Learning
 * [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
 * [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
 * [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
+* [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf)
 
 <br/>
 
