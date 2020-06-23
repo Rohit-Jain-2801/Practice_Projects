@@ -25,4 +25,6 @@
   + [Collaborative Filtering with Recurrent Neural Networks](https://arxiv.org/pdf/1608.07400.pdf)
   + [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems](http://proceedings.mlr.press/v63/ko101.pdf)
   + [Session-Based Recommendations With Recurrent Neural Networks](https://arxiv.org/pdf/1511.06939.pdf)
+  + [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf)
+  + [3D Convolutional Networks for Session-based Recommendation with Content Features](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p138-tuan.pdf)
 * [Deep Learning For Recommendation Systems](https://awesomeopensource.com/project/robi56/Deep-Learning-for-Recommendation-Systems)
