@@ -3,6 +3,7 @@ Restricted_Boltzmann_Machine
 
 <br/>
 
+
 ## References-
 * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 * [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
@@ -13,6 +14,7 @@ Restricted_Boltzmann_Machine
 * [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 * [A Spike and Slab Restricted Boltzmann Machine](http://proceedings.mlr.press/v15/courville11a/courville11a.pdf)
 
+<br/>
 
 * [Deep Learning Tutorials](http://www.deeplearning.net/tutorial/)
 * [Deep Learning meets Physics: Restricted Boltzmann Machines Part II](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
