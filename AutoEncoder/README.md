@@ -37,6 +37,7 @@ Unsupervised Deep Learning
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 * [Conditional Variational Autoencoder for Neural Machine Translation](https://arxiv.org/pdf/1812.04405.pdf)
 * [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
+* [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
 * [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
 * [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
 * [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf)
@@ -84,6 +85,8 @@ Unsupervised Deep Learning
 * Recommender System
   + [RaptorMai - Deep-AutoEncoder-Recommendation](https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation)
   + [How Variational Autoencoders make classical recommender systems obsolete](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
+  + [Npow - AutoRec](https://github.com/npow/AutoRec)
+  + [Arashkhoeini - Autorec](https://github.com/arashkhoeini/Autorec)
 * Image Colorization
   + [Automatic Image Colorization Using Machine Learning  ](https://xiangyutang2.github.io/auto-colorization-autoencoders/)
   + [Auto Colorization of Black and White Images using Machine Learning “Auto-encoders” technique](https://becominghuman.ai/auto-colorization-of-black-and-white-images-using-machine-learning-auto-encoders-technique-a213b47f7339)
