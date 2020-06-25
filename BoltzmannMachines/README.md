@@ -27,3 +27,5 @@ Restricted_Boltzmann_Machine
   + [Chimera0 - Accel-Brain-Code](https://github.com/chimera0/accel-brain-code)
 * [PyImageSearch - Boltzmann Machine](https://www.pyimagesearch.com/?s=boltzmann+machine)
 * [Musical TensorFlow, Part 1 - How to build an RBM in TensorFlow for making music](http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/)
+* [Cognitive Class - Deep Learning with TensorFlow PlayList](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
+* [Fahad Hussain - Deep learning from Scratch Playlist](https://www.youtube.com/playlist?list=PLtCBuHKmdxOdO88sgcFyDdL5ATg1WY-_U)
