@@ -19,9 +19,11 @@ Restricted_Boltzmann_Machine
 * [Deep Learning Tutorials](http://www.deeplearning.net/tutorial/)
 * [Deep Learning meets Physics: Restricted Boltzmann Machines Part II](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
 * [Implementing Restricted Boltzmann Machine with Python and TensorFlow](https://rubikscode.net/2018/10/22/implementing-restricted-boltzmann-machine-with-python-and-tensorflow/)
+* [Lee's blog - RBM TensorFlow Implementation](http://lyy1994.github.io/machine-learning/2017/04/17/RBM-tensorflow-implementation.html)
 * GitHub - 
   + [Meownoid - TensorFlow-RBM](https://github.com/meownoid/tensorfow-rbm)
   + [Yell - Boltzmann-Machines](https://github.com/yell/boltzmann-machines)
   + [Wiseodd - Generative-Models](https://github.com/wiseodd/generative-models)
   + [Chimera0 - Accel-Brain-Code](https://github.com/chimera0/accel-brain-code)
 * [PyImageSearch - Boltzmann Machine](https://www.pyimagesearch.com/?s=boltzmann+machine)
+* [Musical TensorFlow, Part 1 - How to build an RBM in TensorFlow for making music](http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/)
