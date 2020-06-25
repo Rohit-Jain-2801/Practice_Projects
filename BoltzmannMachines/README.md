@@ -12,3 +12,14 @@ Restricted_Boltzmann_Machine
 * [Deep Boltzmann Machines](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 * [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 * [A Spike and Slab Restricted Boltzmann Machine](http://proceedings.mlr.press/v15/courville11a/courville11a.pdf)
+
+
+* [Deep Learning Tutorials](http://www.deeplearning.net/tutorial/)
+* [Deep Learning meets Physics: Restricted Boltzmann Machines Part II](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
+* [Implementing Restricted Boltzmann Machine with Python and TensorFlow](https://rubikscode.net/2018/10/22/implementing-restricted-boltzmann-machine-with-python-and-tensorflow/)
+* GitHub - 
+  + [Meownoid - TensorFlow-RBM](https://github.com/meownoid/tensorfow-rbm)
+  + [Yell - Boltzmann-Machines](https://github.com/yell/boltzmann-machines)
+  + [Wiseodd - Generative-Models](https://github.com/wiseodd/generative-models)
+  + [Chimera0 - Accel-Brain-Code](https://github.com/chimera0/accel-brain-code)
+* [PyImageSearch - Boltzmann Machine](https://www.pyimagesearch.com/?s=boltzmann+machine)
