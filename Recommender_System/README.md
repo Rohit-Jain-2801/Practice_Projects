@@ -29,3 +29,4 @@
   + [3D Convolutional Networks for Session-based Recommendation with Content Features](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p138-tuan.pdf)
 * [Deep Learning For Recommendation Systems](https://awesomeopensource.com/project/robi56/Deep-Learning-for-Recommendation-Systems)
 * [Nipun Batra Blog](https://nipunbatra.github.io/blog/)
+* [Paxcema - KerasGRU4Rec](https://github.com/paxcema/KerasGRU4Rec)
