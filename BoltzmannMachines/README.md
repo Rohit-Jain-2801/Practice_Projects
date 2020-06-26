@@ -25,6 +25,8 @@ Restricted_Boltzmann_Machine
   + [Yell - Boltzmann-Machines](https://github.com/yell/boltzmann-machines)
   + [Wiseodd - Generative-Models](https://github.com/wiseodd/generative-models)
   + [Chimera0 - Accel-Brain-Code](https://github.com/chimera0/accel-brain-code)
+  + [JosephGatto - Deep-Belief-Networks-Tensorflow](https://github.com/JosephGatto/Deep-Belief-Networks-Tensorflow)
+  + [Albertbup - Deep-Belief-Network](https://github.com/albertbup/deep-belief-network)
 * [PyImageSearch - Boltzmann Machine](https://www.pyimagesearch.com/?s=boltzmann+machine)
 * Scikit-Learn
   + [User Guide](https://scikit-learn.org/stable/user_guide.html)
@@ -32,3 +34,4 @@ Restricted_Boltzmann_Machine
 * [Musical TensorFlow, Part 1 - How to build an RBM in TensorFlow for making music](http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/)
 * [Cognitive Class - Deep Learning with TensorFlow PlayList](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
 * [Fahad Hussain - Deep learning from Scratch Playlist](https://www.youtube.com/playlist?list=PLtCBuHKmdxOdO88sgcFyDdL5ATg1WY-_U)
+* [Deep Belief Networks — An Introduction](https://medium.com/analytics-army/deep-belief-networks-an-introduction-1d52bb867a25)
