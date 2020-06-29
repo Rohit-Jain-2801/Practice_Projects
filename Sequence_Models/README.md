@@ -65,3 +65,11 @@ Working with sequences!
   + [tf.nn.ctc_beam_search_decoder](https://www.tensorflow.org/api_docs/python/tf/nn/ctc_beam_search_decoder)
   + [tf.keras.layers.Attention](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Attention)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
+
+<br/>
+
+## Datasets-
+* [Tab-delimited Bilingual Sentence Pairs](http://www.manythings.org/anki/)
+* [Emojify](https://www.kaggle.com/alvinrindra/emojify)
+* [Sonnet](https://www.kaggle.com/jojo096/sonnet)
+* [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)
