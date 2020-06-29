@@ -24,6 +24,7 @@ Working with sequences!
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 * [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (CTC Cost)](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 * [Advancing Acoustic-to-Word CTC Model with Attention and Mixed-Units](https://arxiv.org/pdf/1812.11928.pdf)
+* [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)
 
 <br/>
 
@@ -49,5 +50,18 @@ Working with sequences!
   + [Doubts regarding Understanding Keras LSTMs](https://stackoverflow.com/questions/53955093/doubts-regarding-understanding-keras-lstms)
   + [Keras LSTM tutorial – How to easily build a powerful deep learning language model](https://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 * [Attention — Seq2Seq Models](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263)
+* [Seq2seq pay Attention to Self Attention: Part 1](https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-d332e85e9aad)
+* [Implementing Neural Machine Translation with Attention mechanism using Tensorflow](https://towardsdatascience.com/implementing-neural-machine-translation-with-attention-using-tensorflow-fc9c6f26155f)
 * [Essentials of Deep Learning – Sequence to Sequence modelling with Attention (using python)](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/#:~:text=A%20typical%20sequence%20to%20sequence,an%20encoder%20and%20a%20decoder.&text=So%20when%20such%20an%20input,step%20of%20the%20decoder's%20iteration.)
+* [Neural Machine Translation With Attention Mechanism](https://machinetalk.org/2019/03/29/neural-machine-translation-with-attention-mechanism/)
+* [How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)
+* [A Gentle Introduction to Calculating the BLEU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
+* [Zhijing-jin - Bleu](https://github.com/zhijing-jin/bleu)
+* [A Comprehensive Guide to Attention Mechanism in Deep Learning for Everyone](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)
+* TensorFlow
+  + [TensorFlow NMT](https://github.com/tensorflow/nmt)
+  + [Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
+  + [tfa.seq2seq.BahdanauAttention](https://www.tensorflow.org/addons/api_docs/python/tfa/seq2seq/BahdanauAttention)
+  + [tf.nn.ctc_beam_search_decoder](https://www.tensorflow.org/api_docs/python/tf/nn/ctc_beam_search_decoder)
+  + [tf.keras.layers.Attention](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Attention)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
