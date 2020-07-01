@@ -63,6 +63,7 @@ Unsupervised Deep Learning
   + [Image Quality Assessment through FSIM, SSIM, MSE and PSNR—A Comparative Study](https://www.scirp.org/journal/paperinformation.aspx?paperid=90911)
   + [Quality Assessment of Generative Adversarial Networks](https://medium.com/analytics-vidhya/quality-assessment-of-generative-adversarial-networks-369444a0259c)
   + [Convolutional Neural Networks for No-Reference Image Quality Assessment](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf)
+  + [Automatic Image Quality Assessment in Python](https://towardsdatascience.com/automatic-image-quality-assessment-in-python-391a6be52c11)
 * TensorFlow - Variational AutoEncoder
   + [Variational AutoEncoder](https://www.tensorflow.org/guide/keras/custom_layers_and_models#putting_it_all_together_an_end-to-end_example)
   + [Convolutional Variational AutoEncoder](https://www.tensorflow.org/tutorials/generative/cvae)
