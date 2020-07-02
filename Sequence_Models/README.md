@@ -66,6 +66,7 @@ Working with sequences!
   + [tf.nn.ctc_beam_search_decoder](https://www.tensorflow.org/api_docs/python/tf/nn/ctc_beam_search_decoder)
   + [tf.keras.layers.Attention](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Attention)
 * [Tensorflow_addons seq2seq example using Attention and Beam Search](https://medium.com/@dhirensk/tensorflow-addons-seq2seq-example-using-attention-and-beam-search-9f463b58bc6b)
+* [Theamrzaki - Text_Summurization_Abstractive_Methods](https://github.com/theamrzaki/text_summurization_abstractive_methods)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
 
 <br/>
