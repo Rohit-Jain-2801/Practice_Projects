@@ -25,6 +25,7 @@ Working with sequences!
 * [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (CTC Cost)](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 * [Advancing Acoustic-to-Word CTC Model with Attention and Mixed-Units](https://arxiv.org/pdf/1812.11928.pdf)
 * [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)
+* [Bi-Directional Attention Flow For Machine Comprehension (BiDAF)](https://arxiv.org/pdf/1611.01603.pdf)
 
 <br/>
 
