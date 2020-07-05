@@ -117,6 +117,7 @@ Convolutional_Neural_Network
 * [Aliaksandr Siarohin - First Order Model](https://github.com/AliaksandrSiarohin/first-order-model)
 * [Anish9 - GCPAnet-tensorflow2.2](https://github.com/anish9/GCPAnet-tensorflow2.2)
 * [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)
+* [Analytics Vidhya - Pultik Sharma](https://www.analyticsvidhya.com/blog/author/pulkits/)
 * [Awsome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
 * [Natowi - 3D-Reconstruction-with-Neural-Network](https://github.com/natowi/3D-Reconstruction-with-Neural-Network)
 
