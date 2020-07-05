@@ -45,6 +45,7 @@ Convolutional_Neural_Network
 * [Papers.ReadTheDocs.IO: Deep Learning and stuff papers](https://papers.readthedocs.io/en/latest/)
 * [Summaries of machine learning papers](https://github.com/aleju/papers)
 * [FaceBook Research](https://research.fb.com/publications/)
+* [A Beginner’s Guide to Convolutional Neural Networks (CNNs)](https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8)
 * Data Augmentation
   + [Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2](https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/)
   + [Data Augmentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
