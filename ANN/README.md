@@ -4,7 +4,7 @@ Artificial_Neural_Network
 <br/>
 
 ## Features-
-* Regression Task
+* Artificial Neural Network - Regression Task
 
 <br/>
 
