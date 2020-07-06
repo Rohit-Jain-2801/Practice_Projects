@@ -3,26 +3,26 @@ Unsupervised Learning - Clustering Problem
 
 <br/>
 
-## Features-
-### Description:
+## ⮚ Features-
+### ⮩ Description:
 + Unsupervised Learning - Clustering Task
 
-### Models
+### ⮩ Models
 + K-Means Clustering
 + Hierarchical Clustering
 
-### References:
+### ⮩ References:
 + [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 
 <br/>
 
-## Dataset-
-### Description:
+## ⮚ Dataset-
+### ⮩ Description:
 + It requires to develop a customer segmentation to define marketing strategy.
 + It summarizes the usage behavior of about 9000 active credit card holders during the last 6 months.
 + The data-file is at a customer level with 18 behavioral variables.
 
-### Features:
+### ⮩ Features:
 + **CUST_ID** - Identification of Credit Card holder (Categorical)
 + **BALANCE** - Balance amount left in their account to make purchases
 + **BALANCE_FREQUENCY** - How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
@@ -42,5 +42,5 @@ Unsupervised Learning - Clustering Problem
 + **PRC_FULL_PAYMENT** - Percent of full payment paid by user
 + **TENURE** - Tenure of credit card service for user
 
-### Link:
+### ⮩ Link:
 + [Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)
