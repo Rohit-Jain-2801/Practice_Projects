@@ -2,13 +2,14 @@
 
 <br/>
 
-<b>Features:</b>
-+ Collaborative Recommender System
-+ Content Based Recommender System
+## ⮚ Features-
+### ⮩ Description:
++ Recommendation_System_1
+    - WeightedCollaborativeRecommenderSystem, Content-Based/Cognitive RecommenderSystem
++ Recommendation_System_2
+    - CollaborativeRecommenderSystem (Item/User Based: Correlation, CosineSimilarity, MatrixFactorization)
 
-<br/>
-
-<b>Reference:</b>
+### ⮩ Reference:
 * [5 Types of Recommenders](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
 * [Recommendation Systems — Models and Evaluation](https://towardsdatascience.com/recommendation-systems-models-and-evaluation-84944a84fb8e)
 * [Recommendation Systems: Collaborative Filtering using Matrix Factorization — Simplified](https://medium.com/sfu-big-data/recommendation-systems-collaborative-filtering-using-matrix-factorization-simplified-2118f4ef2cd3)
@@ -30,3 +31,10 @@
 * [Deep Learning For Recommendation Systems](https://awesomeopensource.com/project/robi56/Deep-Learning-for-Recommendation-Systems)
 * [Nipun Batra Blog](https://nipunbatra.github.io/blog/)
 * [Paxcema - KerasGRU4Rec](https://github.com/paxcema/KerasGRU4Rec)
+
+<br/>
+
+## ⮚ Dataset-
+### ⮩ Links:
+* [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) (for Recommender_System_1)
+* [MovieLens 20M Dataset](https://www.kaggle.com/grouplens/movielens-20m-dataset) (for Recommender_System_2)
