@@ -3,8 +3,8 @@ Convolutional_Neural_Network
 
 <br/>
 
-## Features-
-### Description:
+## ⮚ Features-
+### ⮩ Description:
 * **ColorClassification** - (OpenCV + DistanceFormula) / TensorFlow
 * **DogsVsCats** - ImageClassificationTask (FlowFromDirectory)
 * FaceDetection
@@ -19,8 +19,8 @@ Convolutional_Neural_Network
 * **TensorFlowForPoets** - ImageClassificationTask (tensorflow_datasets)
 * **YOLO** - Object Localization (TensorFlow / OpenCV)
 
-### References:
-#### Papers:
+### ⮩ References:
+#### ➙ Papers:
 * [Gradient-Based Learning Applied to Document Recognition (LeNet-5)](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 * [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGGNet)](https://arxiv.org/pdf/1409.1556v6.pdf)
@@ -49,7 +49,7 @@ Convolutional_Neural_Network
 * [First Order Motion Model for Image Animation](https://arxiv.org/pdf/2003.00196.pdf)
 * [Global Context-Aware Progressive Aggregation Network for Salient Object Detection](https://arxiv.org/pdf/2003.00651.pdf)
 
-#### Blogs & Docs:
+#### ➙ Blogs & Docs:
 * [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 * [Medium - Sik-Ho Tsang](https://towardsdatascience.com/@sh.tsang)
@@ -140,8 +140,8 @@ Convolutional_Neural_Network
 
 <br/>
 
-## Dataset-
-### Links:
+## ⮚ Dataset-
+### ⮩ Links:
 * [Horses Or Humans Dataset](http://www.laurencemoroney.com/horses-or-humans-dataset/)
 * Dogs Vs. Cats
   + [Kaggle](https://www.kaggle.com/c/dogs-vs-cats)
