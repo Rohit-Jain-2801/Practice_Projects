@@ -6,10 +6,6 @@ Reinforcement Learning - Multi-Armed Bandit Problem
 ## Features-
 ### Description:
 + Multi-Armed Bandit Problem
-+ Dataset is provided with 1000 records and 10 features.
-+ Each record and feature refers to response given by a user and advertisement resp.
-+ 1 => User has responded
-+ 0 => User hasn't responded
 
 ### Models:
 + Random Selection
@@ -22,6 +18,12 @@ Reinforcement Learning - Multi-Armed Bandit Problem
 <br/>
 
 ## Dataset-
+### Description:
++ Dataset is provided with 1000 records and 10 features.
++ Each record and feature refers to response given by a user and advertisement resp.
++ 1 => User has responded
++ 0 => User hasn't responded
+
 ### Features:
 + Ad 1, Ad 2, Ad 3, Ad 4, Ad 5, Ad 6, Ad 7, Ad 8, Ad 9, Ad 10
 
