@@ -3,11 +3,11 @@ Artificial_Neural_Network
 
 <br/>
 
-## Features-
-### Description:
+## ⮚ Features-
+### ⮩ Description:
 * Artificial Neural Network - Regression Task
 
-### References:
+### ⮩ References:
 * [TensorFlow Documentation](https://www.tensorflow.org/api_docs/python/tf)
 * [A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
@@ -28,8 +28,8 @@ Artificial_Neural_Network
 
 <br/>
 
-## Dataset-
-### Features:
+## ⮚ Dataset-
+### ⮩ Features:
 * **fixed acidity** - most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 * **volatile acidity** - the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
 * **citric acid** - found in small quantities, citric acid can add 'freshness' and flavor to wines
@@ -42,8 +42,8 @@ Artificial_Neural_Network
 * **sulphates** - a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
 * **alcohol** - the percent alcohol content of the wine
 
-### Target:
+### ⮩ Target:
 * **quality** - output variable (based on sensory data, score between 0 and 10)
 
-### Link:
+### ⮩ Link:
 * [Red Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
