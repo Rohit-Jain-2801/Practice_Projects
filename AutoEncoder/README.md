@@ -22,6 +22,7 @@ Unsupervised Deep Learning
 * **Image Colorization** - B/W-Image to Color-Image
 
 ### References:
+#### Papers:
 * [AutoEncoders](http://www.deeplearningbook.org/contents/autoencoders.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression)
 * [Deep Learning Tutorial - Sparse Autoencoder](http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder)
@@ -41,8 +42,7 @@ Unsupervised Deep Learning
 * [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
 * [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf)
 
-<br/>
-
+#### Blogs & Docs:
 * [Jeremy Jordan Blog](https://www.jeremyjordan.me/data-science/)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Keras - Code Examples](https://keras.io/examples/)
