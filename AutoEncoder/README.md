@@ -3,8 +3,8 @@ Unsupervised Deep Learning
 
 <br/>
 
-## Features-
-### Description:
+## ⮚ Features-
+### ⮩ Description:
 * **Implemented Different Types of AutoEncoders**
   + [x] Vanilla AutoEncoder
   + [x] Convolutional AutoEncoder
@@ -21,8 +21,8 @@ Unsupervised Deep Learning
 * **Reverse Image Search** - DimentionalReduction + SearchSystem (EuclideanDistance/Annoy+EuclideanDistance)
 * **Image Colorization** - B/W-Image to Color-Image
 
-### References:
-#### Papers:
+### ⮩ References:
+#### ➙ Papers:
 * [AutoEncoders](http://www.deeplearningbook.org/contents/autoencoders.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression)
 * [Deep Learning Tutorial - Sparse Autoencoder](http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder)
@@ -42,7 +42,7 @@ Unsupervised Deep Learning
 * [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
 * [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf)
 
-#### Blogs & Docs:
+#### ➙ Blogs & Docs:
 * [Jeremy Jordan Blog](https://www.jeremyjordan.me/data-science/)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Keras - Code Examples](https://keras.io/examples/)
@@ -98,7 +98,7 @@ Unsupervised Deep Learning
 
 <br/>
 
-## Datasets-
-### Links:
+## ⮚ Datasets-
+### ⮩ Links:
 * [Anime Sketch Colorization Pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) (for ImageColorization)
 * [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset) (for RecommenderSystem)
