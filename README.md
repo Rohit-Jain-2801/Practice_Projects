@@ -32,4 +32,4 @@ Data Science Practice Projects
   + Credit_Card_Analysis_HC - Hierarchical Clustering Task
   + Credit_Card_Analysis_KMeans - KMeans Clustering Task
 * Credit_Card_Fraud_Detection 
-  + Credit_Card_Fraud_Detection - ClassificationTask (LogisticRegression, K-NearestNeighbors, SupportVectorMachine, NaiveBayes, DecisionTree, RandomForest, PrincipalComponentAnalysis, LinearDiscriminantAnalysis, GradientBoosting)
+  + Credit_Card_Fraud_Detection - ClassificationTask (LogisticRegression, K-NearestNeighbors (KNN), SupportVectorMachine (SVM), NaiveBayes, DecisionTree, RandomForest, PrincipalComponentAnalysis (PCA), LinearDiscriminantAnalysis (LDA), GradientBoosting)
