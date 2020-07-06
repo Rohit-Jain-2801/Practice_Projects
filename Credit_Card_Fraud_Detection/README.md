@@ -5,7 +5,7 @@ Supervised Learning - Classification Problem
 
 ## ⮚ Features-
 ### ⮩ Description:
-+ Classification Task
++ Supervised Learning - Classification Task
 
 ### ⮩ Models:
 + Logistic Regression
