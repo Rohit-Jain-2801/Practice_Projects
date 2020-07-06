@@ -4,7 +4,8 @@ Unsupervised Deep Learning
 <br/>
 
 ## Features-
-* Implemented Different Types of AutoEncoders
+### Description:
+* **Implemented Different Types of AutoEncoders**
   + [x] Vanilla AutoEncoder
   + [x] Convolutional AutoEncoder
   + [x] Sparse AutoEncoder
@@ -16,13 +17,11 @@ Unsupervised Deep Learning
   + [ ] Adversarial AutoEncoder
   + [ ] Deep AutoEncoder
   + [ ] Seq-to-Seq AutoEncoder
-* Recommender System
-* Reverse Image Search
-* Image Colorization
+* **Recommender System** - Collaborative Item-Based System
+* **Reverse Image Search** - DimentionalReduction + SearchSystem (EuclideanDistance/Annoy+EuclideanDistance)
+* **Image Colorization** - B/W-Image to Color-Image
 
-<br/>
-
-## References-
+### References:
 * [AutoEncoders](http://www.deeplearningbook.org/contents/autoencoders.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression)
 * [Deep Learning Tutorial - Sparse Autoencoder](http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder)
@@ -100,5 +99,6 @@ Unsupervised Deep Learning
 <br/>
 
 ## Datasets-
-* [Anime Sketch Colorization Pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair)
-* [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)
+### Links:
+* [Anime Sketch Colorization Pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) (for ImageColorization)
+* [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset) (for RecommenderSystem)
