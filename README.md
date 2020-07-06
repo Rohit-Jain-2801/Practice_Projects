@@ -4,7 +4,7 @@ Data Science Practice Projects
 <br/>
 
 * ANN (Artificial Neural Network)
-  + RedWineQuality - RegressionTask
+  + [RedWineQuality](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/ANN/RedWineQuality.ipynb) - RegressionTask
 * Ads_CTR_Optimisation (Multi-Armed Bandit Task)
   + Ads_CTR_Optimisation - RandomSelection, UpperConfidenceBound (UCB), Thompson/Posterior Sampling
 * AutoEncoder
@@ -52,3 +52,11 @@ Data Science Practice Projects
   + Object Tracking - FilteringByColor, Background/Foreground Subtraction, Meanshift/Camshift/Lucas-KanadeOpticalFlow/DenseOpticalFlow
   + Object_Detection - TemplateMatching, Harris/Shi-Tomasi CornerDetecion, SIFT/SURF/FAST/BRIEF/ORB FeatureDetection, Histogram-of-OrientedGradients (HoG)
   + OCR using ML - Handwritten-DigitRecognition with KNNClassifier
+* Placement_Predictor
+  + PlacementPredictor - DataAnalysis, DimensionReduction + MultivariateLinearRegression, DecisionTree/RandomForest Classification
+* Recommender_System
+  + Recommendation_System_1 - WeightedCollaborativeRecommenderSystem, Content-Based/Cognitive RecommenderSystem
+  + Recommendation_System_2 - CollaborativeRecommenderSystem (Item/User Based: Correlation, CosineSimilarity, MatrixFactorization)
+* RL_Intuition
+  + CartPole-v0
+  + FrozenLake-v0
