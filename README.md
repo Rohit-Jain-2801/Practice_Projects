@@ -16,19 +16,20 @@ Data Science Practice Projects
   + RBM - (Sklearn's BernoulliRBM + LogisticRegression) / PyDBM's DeepBoltzmannMachine
 * CNN (Convolutional Neural Network)
   + ColorClassification - (OpenCV + DistanceFormula) / TensorFlow
-  + DogsVsCats - ClassificationTask (FlowFromDirectory)
+  + DogsVsCats - ImageClassificationTask (FlowFromDirectory)
   + FaceDetection
     - FaceDetection - DeepFace / (KerasFacenet & Mira + Sklearn)
     - SiameseNetworkWithTripletLoss - Face Detection & Verification
-  + FashionMNIST - ClassificationTask (TensorFlowDataset)
-  + HorsesVsHumans - ClassificationTask (FlowFromDirectory)
-  + IntelImageClassification - ClassificationTask (FlowFromDirectory + TransferLearning)
+  + FashionMNIST - ImageClassificationTask (TensorFlowDataset)
+  + HorsesVsHumans - ImageClassificationTask (FlowFromDirectory)
+  + IntelImageClassification - ImageClassificationTask (FlowFromDirectory + TransferLearning)
   + NeuralStyleTransfer - TensorFlowHub / TensorFlow-OnScratch
   + RCNN - Mask Region-Based CNN
-  + SignLanguageMNIST - ClassificationTask (ExtractFromCSV)
-  + TensorFlowForPoets - ClassificationTask (tensorflow_datasets)
+  + SignLanguageMNIST - ImageClassificationTask (ExtractFromCSV)
+  + TensorFlowForPoets - ImageClassificationTask (tensorflow_datasets)
   + YOLO - Object Localization (TensorFlow / OpenCV)
 * Credit_Card_Analysis
   + Credit_Card_Analysis_HC - Hierarchical Clustering Task
   + Credit_Card_Analysis_KMeans - KMeans Clustering Task
-* Credit_Card_Fraud_Detection (ClassificationTask)
+* Credit_Card_Fraud_Detection 
+  + Credit_Card_Fraud_Detection - ClassificationTask (LogisticRegression, K-NearestNeighbors, SupportVectorMachine, NaiveBayes, DecisionTree, RandomForest, PrincipalComponentAnalysis, LinearDiscriminantAnalysis, GradientBoosting)
