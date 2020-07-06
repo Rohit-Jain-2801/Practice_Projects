@@ -13,6 +13,7 @@ Natural Language Processing
 + Topic Modeling - LSA, LDA
 + Word2Vec
 + FastText
++ ConvLayers
 
 <br/>
 
