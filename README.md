@@ -3,60 +3,293 @@ Data Science Practice Projects
 
 <br/>
 
-* [ANN](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/ANN) (Artificial Neural Network)
-  + [RedWineQuality](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/ANN/RedWineQuality.ipynb) - RegressionTask
-* [Ads_CTR_Optimisation](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Ads_CTR_Optimisation) (Multi-Armed Bandit Task)
-  + [Ads_CTR_Optimisation](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Ads_CTR_Optimisation/Ads_CTR_Optimisation.ipynb) - RandomSelection, UpperConfidenceBound (UCB), Thompson/Posterior Sampling
-* [AutoEncoder](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/AutoEncoder)
-  + [AutoEncoder](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/AutoEncoder/AutoEncoder.ipynb) - Different Types
-  + [ImageColorization](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/AutoEncoder/ImageColorization.ipynb) - B/W-Image to Color-Image
-  + [RecommenderSystem](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/AutoEncoder/RecommenderSystem.ipynb) - Collaborative Item-Based System
-  + [ReverseImageSearch](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/AutoEncoder/ReverseImageSearch.ipynb) - DimentionalReduction + SearchSystem (EuclideanDistance/Annoy+EuclideanDistance)
-* [BoltzmannMachines](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/BoltzmannMachines)
-  + [RBM](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/BoltzmannMachines/RBM.ipynb) - (Sklearn's BernoulliRBM + LogisticRegression) / PyDBM's DeepBoltzmannMachine
-* [CNN](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/CNN) (Convolutional Neural Network)
-  + [ColorClassification](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/ColorClassification/ColorClassification.ipynb) - (OpenCV + DistanceFormula) / TensorFlow
-  + [DogsVsCats](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/DogsVsCats/DogsVsCats.ipynb) - ImageClassificationTask (FlowFromDirectory)
-  + FaceDetection
-    - [FaceDetection](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/FaceDetection/FaceDetection.ipynb) - DeepFace / (KerasFacenet & Mira + Sklearn)
-    - [SiameseNetworkWithTripletLoss](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/FaceDetection/SiameseNetworkWithTripletLoss.ipynb) - Face Detection & Verification
-  + [FashionMNIST](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/FashionMNIST/FashionMNIST.ipynb) - ImageClassificationTask (TensorFlowDataset)
-  + [HorsesVsHumans](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/HorsesVsHumans/HorsesVsHumans.ipynb) - ImageClassificationTask (FlowFromDirectory)
-  + [IntelImageClassification](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/IntelImageClassification/IntelImageClassification.ipynb) - ImageClassificationTask (FlowFromDirectory + TransferLearning)
-  + [NeuralStyleTransfer](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/NeuralStyleTransfer/NeuralStyleTransfer.ipynb) - TensorFlowHub / TensorFlow-OnScratch
-  + [RCNN](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/RCNN/R_CNN.ipynb) - Mask Region-Based CNN
-  + [SignLanguageMNIST](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/SignLanguageMNIST/SignLanguageMNIST.ipynb) - ImageClassificationTask (ExtractFromCSV)
-  + [TensorFlowForPoets](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/TensorFlowForPoets/Flowers.ipynb) - ImageClassificationTask (tensorflow_datasets)
-  + [YOLO](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/CNN/YOLO/YOLO.ipynb) - Object Localization (TensorFlow / OpenCV)
-* [Credit_Card_Analysis](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Credit_Card_Analysis)
-  + [Credit_Card_Analysis_HC](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Credit_Card_Analysis/Credit_Card_Analysis_HC.ipynb) - Hierarchical Clustering Task
-  + [Credit_Card_Analysis_KMeans](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Credit_Card_Analysis/Credit_Card_Analysis_KMeans.ipynb) - KMeans Clustering Task
-* [Credit_Card_Fraud_Detection](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Credit_Card_Fraud_Detection) 
-  + [Credit_Card_Fraud_Detection](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Credit_Card_Fraud_Detection/Credit_Card_Fraud_Detection.ipynb) - ClassificationTask (LogisticRegression, K-NearestNeighbors (KNN), SupportVectorMachine (SVM), NaiveBayes, DecisionTree, RandomForest, PrincipalComponentAnalysis (PCA), LinearDiscriminantAnalysis (LDA), GradientBoosting Classifiers)
-* [Doctor_Fees_Prediction](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Doctor_Fees_Prediction)
-  + [Doctor_Fees_Prediction](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Doctor_Fees_Prediction/Doctor_Fees_Prediction.ipynb) - RegressionTask (MultivariateLinearRegression, LASSO, Ridge/Shrinkage, Elastic-Net, SupportVectorRegressor (SVR), DecisionTree, RandomForest, K-Nearest Neighbors (KNN), XGBoost (eXtremeGradientBoosting), AdaBoost (AdaptiveBoosting), GradientBoosting, LightGBM (LightGradientBoosting) Regressors)
-* [Market_Basket_Optimisation](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Market_Basket_Optimisation)
-  + [Market_Basket_Optimisation](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Market_Basket_Optimisation/Market_Basket_Optimisation.ipynb) - Association Rule Learning Task (AprioriAlgorithm)
-* [NLP](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/NLP) (Natural Language Processing)
-  + [Sentiment_Analysis](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/NLP/Sentiment_Analysis.ipynb) - NLTK's Vader-Lexicon/Bag-of-Words + Classifier
-  + [ConvSentimentAnalysis](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/NLP/ConvSentimentAnalysis.ipynb) - Based on TensorFlow's ConvLayers
-* [OpenCV](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/OpenCV)
-  + [Basics](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Basics.ipynb) - Basic Operations (ColorSystem, DrawingShapes, AffineTransformations, ImageTranslations, ImageRotation, ScalingImages, ImageBlending, CroppingImage, ArithmeticOperations, BitwiseOperations, Bluring, Sharpening, Thresholding, MorphologicalTransformations, EdgeDetection, PerspectiveTransform, MouseEvents, TrackBar, WaterMark, LiveSketch)
-  + [Basics (Matplotlib)](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Basics%20(Matplotlib).ipynb) - All Basics file's output in Matplotlib
-  + [BLOB](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/BLOB.ipynb) - Binary Large OBject (Counting Circles & Ellipses)
-  + [Computational_Photography](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Computational_Photography.ipynb) - ImageDenoising, ImageInpainting, HighDynamicRange (HDR)
-  + [Contours](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Contours.ipynb) - BoundingObject (Sorting by Area/Position/Perimeter, Approximation, ConvexHull, Bounding, ExtremePoints, Searching/Identifying Shapes, Motion Detection & Tracking)
-  + [HAAR Cascade Classifiers](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/HAAR%20Cascade%20Classifiers.ipynb) - Face, Eye, Pedistrian, Car Detection
-  + [Hough](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Hough.ipynb) - LineDetection (HoughLines, ProbabilisticHoughLines), CircleDetection (HoughCircles)
-  + [LandMarks](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/LandMarks.ipynb) - FacialLandmarks, MergingFaces, YawnDetector
-  + [Object Tracking](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Object%20Tracking.ipynb) - FilteringByColor, Background/Foreground Subtraction, Meanshift/Camshift/Lucas-KanadeOpticalFlow/DenseOpticalFlow
-  + [Object_Detection](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/Object_Detection.ipynb) - TemplateMatching, Harris/Shi-Tomasi CornerDetecion, SIFT/SURF/FAST/BRIEF/ORB FeatureDetection, Histogram-of-OrientedGradients (HoG)
-  + [OCR using ML](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/OpenCV/OCR%20using%20ML.ipynb) - Handwritten-DigitRecognition with KNNClassifier
-* [Placement_Predictor](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Placement_Predictor)
-  + [PlacementPredictor](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Placement_Predictor/PlacementPredictor.ipynb) - DataAnalysis, DimensionReduction + MultivariateLinearRegression, DecisionTree/RandomForest Classification
-* [Recommender_System](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/Recommender_System)
-  + [Recommendation_System_1](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Recommender_System/Recommendation_System_1.ipynb) - WeightedCollaborativeRecommenderSystem, Content-Based/Cognitive RecommenderSystem
-  + [Recommendation_System_2](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/Recommender_System/Recommendation_System_2.ipynb) - CollaborativeRecommenderSystem (Item/User Based: Correlation, CosineSimilarity, MatrixFactorization)
-* [RL_Intuition](https://github.com/Rohit-Jain-2801/Practice_Projects/tree/master/RL_Intuition)
-  + [CartPole-v0](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/RL_Intuition/CartPole-v0.ipynb)
-  + [FrozenLake-v0](https://github.com/Rohit-Jain-2801/Practice_Projects/blob/master/RL_Intuition/FrozenLake-v0.ipynb)
+## File-Tree Structure-
+<pre>
+📦Practice_Projects
+ ┣ 📂Ads_CTR_Optimisation
+ ┃ ┣ 📜Ads_CTR_Optimisation.csv
+ ┃ ┣ 📜Ads_CTR_Optimisation.html
+ ┃ ┣ 📜Ads_CTR_Optimisation.ipynb
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜Thompson_Sampling_Slide_1.png
+ ┃ ┣ 📜Thompson_Sampling_Slide_2.png
+ ┃ ┣ 📜Thompson_Sampling_Slide_3.png
+ ┃ ┣ 📜Thompson_Sampling_Slide_4.png
+ ┃ ┣ 📜UCB_Algorithm_Slide_1.png
+ ┃ ┗ 📜UCB_Algorithm_Slide_2.png
+ ┣ 📂ANN
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜RedWineQuality.html
+ ┃ ┣ 📜RedWineQuality.ipynb
+ ┃ ┗ 📜winequality-red.csv
+ ┣ 📂AutoEncoder
+ ┃ ┣ 📜AutoEncoder.html
+ ┃ ┣ 📜AutoEncoder.ipynb
+ ┃ ┣ 📜ImageColorization.html
+ ┃ ┣ 📜ImageColorization.ipynb
+ ┃ ┣ 📜ImageColorizationV0.ipynb
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜RecommenderSystem.html
+ ┃ ┣ 📜RecommenderSystem.ipynb
+ ┃ ┣ 📜ReverseImageSearch.html
+ ┃ ┗ 📜ReverseImageSearch.ipynb
+ ┣ 📂BoltzmannMachines
+ ┃ ┣ 📜RBM.html
+ ┃ ┣ 📜RBM.ipynb
+ ┃ ┗ 📜README.md
+ ┣ 📂CNN
+ ┃ ┣ 📂ColorClassification
+ ┃ ┃ ┣ 📜ColorClassification.html
+ ┃ ┃ ┣ 📜ColorClassification.ipynb
+ ┃ ┃ ┣ 📜red.jpg
+ ┃ ┃ ┗ 📜wikipedia_color_names.csv
+ ┃ ┣ 📂DogsVsCats
+ ┃ ┃ ┣ 📜cat1.jpg
+ ┃ ┃ ┣ 📜DogsVsCats.html
+ ┃ ┃ ┗ 📜DogsVsCats.ipynb
+ ┃ ┣ 📂FaceDetection
+ ┃ ┃ ┣ 📜embedding_model.h5
+ ┃ ┃ ┣ 📜FaceDetection.html
+ ┃ ┃ ┣ 📜FaceDetection.ipynb
+ ┃ ┃ ┣ 📜siamese.png
+ ┃ ┃ ┣ 📜SiameseNetworkWithTripletLoss.html
+ ┃ ┃ ┣ 📜SiameseNetworkWithTripletLoss.ipynb
+ ┃ ┃ ┗ 📜siamese_model.h5
+ ┃ ┣ 📂FashionMNIST
+ ┃ ┃ ┣ 📜cp.h5
+ ┃ ┃ ┣ 📜FashionMNIST.html
+ ┃ ┃ ┣ 📜FashionMNIST.ipynb
+ ┃ ┃ ┗ 📜model.h5
+ ┃ ┣ 📂HorsesVsHumans
+ ┃ ┃ ┣ 📜horse1.jpg
+ ┃ ┃ ┣ 📜HorsesVsHumans.html
+ ┃ ┃ ┗ 📜HorsesVsHumans.ipynb
+ ┃ ┣ 📂IntelImageClassification
+ ┃ ┃ ┣ 📜img1.jpg
+ ┃ ┃ ┣ 📜IntelImageClassification.html
+ ┃ ┃ ┗ 📜IntelImageClassification.ipynb
+ ┃ ┣ 📂NeuralStyleTransfer
+ ┃ ┃ ┣ 📜NeuralStyleTransfer.html
+ ┃ ┃ ┣ 📜NeuralStyleTransfer.ipynb
+ ┃ ┃ ┣ 📜NeuralStyleTransfer1.png
+ ┃ ┃ ┣ 📜NeuralStyleTransfer2.png
+ ┃ ┃ ┣ 📜NeuralStyleTransfer3.png
+ ┃ ┃ ┣ 📜VassilyKandinsky.jpg
+ ┃ ┃ ┗ 📜YellowLabrador.jpg
+ ┃ ┣ 📂RCNN
+ ┃ ┃ ┣ 📜R_CNN.html
+ ┃ ┃ ┣ 📜R_CNN.ipynb
+ ┃ ┃ ┗ 📜volvo_cars_employees_2019_sub_hero.webp
+ ┃ ┣ 📂SignLanguageMNIST
+ ┃ ┃ ┣ 📜SignLanguageMNIST.html
+ ┃ ┃ ┗ 📜SignLanguageMNIST.ipynb
+ ┃ ┣ 📂TensorFlowForPoets
+ ┃ ┃ ┣ 📜Flowers.html
+ ┃ ┃ ┣ 📜Flowers.ipynb
+ ┃ ┃ ┗ 📜roses1.jpg
+ ┃ ┣ 📂YOLO
+ ┃ ┃ ┣ 📜coco.names
+ ┃ ┃ ┣ 📜test.jpg
+ ┃ ┃ ┣ 📜YOLO.html
+ ┃ ┃ ┣ 📜YOLO.ipynb
+ ┃ ┃ ┣ 📜yolov3-tiny.cfg
+ ┃ ┃ ┗ 📜yolov3.cfg
+ ┃ ┗ 📜README.md
+ ┣ 📂Credit_Card_Analysis
+ ┃ ┣ 📜CC GENERAL.csv
+ ┃ ┣ 📜Credit_Card_Analysis_HC.html
+ ┃ ┣ 📜Credit_Card_Analysis_HC.ipynb
+ ┃ ┣ 📜Credit_Card_Analysis_KMeans.html
+ ┃ ┣ 📜Credit_Card_Analysis_KMeans.ipynb
+ ┃ ┗ 📜README.md
+ ┣ 📂Credit_Card_Fraud_Detection
+ ┃ ┣ 📜creditcardfraud.zip
+ ┃ ┣ 📜Credit_Card_Fraud_Detection.html
+ ┃ ┣ 📜Credit_Card_Fraud_Detection.ipynb
+ ┃ ┗ 📜README.md
+ ┣ 📂Doctor_Fees_Prediction
+ ┃ ┣ 📜Doctor_Fees_Prediction.html
+ ┃ ┣ 📜Doctor_Fees_Prediction.ipynb
+ ┃ ┣ 📜Final_Test.xlsx
+ ┃ ┣ 📜Final_Train.xlsx
+ ┃ ┗ 📜README.md
+ ┣ 📂Market_Basket_Optimisation
+ ┃ ┣ 📜Apriori Algorithm in R.pdf
+ ┃ ┣ 📜Market_Basket_Analysis_(Kaggle_Solution).ipynb
+ ┃ ┣ 📜Market_Basket_Optimisation.csv
+ ┃ ┣ 📜Market_Basket_Optimisation.html
+ ┃ ┣ 📜Market_Basket_Optimisation.ipynb
+ ┃ ┗ 📜README.md
+ ┣ 📂NLP
+ ┃ ┣ 📜ConvSentimentAnalysis.html
+ ┃ ┣ 📜ConvSentimentAnalysis.ipynb
+ ┃ ┣ 📜Dataset.tsv
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜Sentiment_Analysis.html
+ ┃ ┗ 📜Sentiment_Analysis.ipynb
+ ┣ 📂OpenCV
+ ┃ ┣ 📂Haarcascades
+ ┃ ┃ ┣ 📜haarcascade_car.xml
+ ┃ ┃ ┣ 📜haarcascade_eye.xml
+ ┃ ┃ ┣ 📜haarcascade_frontalface_default.xml
+ ┃ ┃ ┗ 📜haarcascade_fullbody.xml
+ ┃ ┣ 📂images
+ ┃ ┃ ┣ 📂exposures
+ ┃ ┃ ┃ ┣ 📜list.txt
+ ┃ ┃ ┃ ┣ 📜memorial00.png
+ ┃ ┃ ┃ ┣ 📜memorial01.png
+ ┃ ┃ ┃ ┣ 📜memorial02.png
+ ┃ ┃ ┃ ┣ 📜memorial03.png
+ ┃ ┃ ┃ ┣ 📜memorial04.png
+ ┃ ┃ ┃ ┣ 📜memorial05.png
+ ┃ ┃ ┃ ┣ 📜memorial06.png
+ ┃ ┃ ┃ ┣ 📜memorial07.png
+ ┃ ┃ ┃ ┣ 📜memorial08.png
+ ┃ ┃ ┃ ┣ 📜memorial09.png
+ ┃ ┃ ┃ ┣ 📜memorial10.png
+ ┃ ┃ ┃ ┣ 📜memorial11.png
+ ┃ ┃ ┃ ┣ 📜memorial12.png
+ ┃ ┃ ┃ ┣ 📜memorial13.png
+ ┃ ┃ ┃ ┣ 📜memorial14.png
+ ┃ ┃ ┃ ┗ 📜memorial15.png
+ ┃ ┃ ┣ 📂faces
+ ┃ ┃ ┣ 📜4star.jpg
+ ┃ ┃ ┣ 📜abraham.jpg
+ ┃ ┃ ┣ 📜abraham_mask.png
+ ┃ ┃ ┣ 📜apple.jpg
+ ┃ ┃ ┣ 📜blob.jpg
+ ┃ ┃ ┣ 📜blobs.jpg
+ ┃ ┃ ┣ 📜bottlecaps.jpg
+ ┃ ┃ ┣ 📜bunchofshapes.jpg
+ ┃ ┃ ┣ 📜cars.avi
+ ┃ ┃ ┣ 📜chess.jpg
+ ┃ ┃ ┣ 📜digits.png
+ ┃ ┃ ┣ 📜elephant.jpg
+ ┃ ┃ ┣ 📜gradient.jpg
+ ┃ ┃ ┣ 📜hand.jpg
+ ┃ ┃ ┣ 📜Hillary.jpg
+ ┃ ┃ ┣ 📜hough-transform.jpg
+ ┃ ┃ ┣ 📜house.jpg
+ ┃ ┃ ┣ 📜input.jpg
+ ┃ ┃ ┣ 📜lena.jpg
+ ┃ ┃ ┣ 📜mask.jpg
+ ┃ ┃ ┣ 📜numbers.jpg
+ ┃ ┃ ┣ 📜obama.jpg
+ ┃ ┃ ┣ 📜orange.jpg
+ ┃ ┃ ┣ 📜Rohit_Photo.jpg
+ ┃ ┃ ┣ 📜scan.jpg
+ ┃ ┃ ┣ 📜shapes.jpg
+ ┃ ┃ ┣ 📜shapestomatch.jpg
+ ┃ ┃ ┣ 📜shapes_donut.jpg
+ ┃ ┃ ┣ 📜soduku.jpg
+ ┃ ┃ ┣ 📜someshapes.jpg
+ ┃ ┃ ┣ 📜Sunflowers.jpg
+ ┃ ┃ ┣ 📜thunder.jpg
+ ┃ ┃ ┣ 📜Trump.jpg
+ ┃ ┃ ┣ 📜waldo.jpg
+ ┃ ┃ ┣ 📜WaldoBeach.jpg
+ ┃ ┃ ┗ 📜walking.avi
+ ┃ ┣ 📜Basics (Matplotlib).html
+ ┃ ┣ 📜Basics (Matplotlib).ipynb
+ ┃ ┣ 📜Basics.html
+ ┃ ┣ 📜Basics.ipynb
+ ┃ ┣ 📜BLOB.html
+ ┃ ┣ 📜BLOB.ipynb
+ ┃ ┣ 📜Computational_Photography.html
+ ┃ ┣ 📜Computational_Photography.ipynb
+ ┃ ┣ 📜Contours.html
+ ┃ ┣ 📜Contours.ipynb
+ ┃ ┣ 📜HAAR Cascade Classifiers.html
+ ┃ ┣ 📜HAAR Cascade Classifiers.ipynb
+ ┃ ┣ 📜Hough.html
+ ┃ ┣ 📜Hough.ipynb
+ ┃ ┣ 📜LandMarks.html
+ ┃ ┣ 📜LandMarks.ipynb
+ ┃ ┣ 📜letter-recognition.data
+ ┃ ┣ 📜Object Tracking.html
+ ┃ ┣ 📜Object Tracking.ipynb
+ ┃ ┣ 📜Object_Detection.html
+ ┃ ┣ 📜Object_Detection.ipynb
+ ┃ ┣ 📜OCR using ML.html
+ ┃ ┣ 📜OCR using ML.ipynb
+ ┃ ┣ 📜README.md
+ ┃ ┗ 📜shape_predictor_68_face_landmarks.dat
+ ┣ 📂Placement_Predictor
+ ┃ ┣ 📜PlacementPredictor.html
+ ┃ ┣ 📜PlacementPredictor.ipynb
+ ┃ ┣ 📜PlacementPredictor.pdf
+ ┃ ┣ 📜Placement_Data_Full_Class.csv
+ ┃ ┗ 📜README.md
+ ┣ 📂Recommender_System
+ ┃ ┣ 📜Cold_Start.JPG
+ ┃ ┣ 📜Correlation.JPG
+ ┃ ┣ 📜cosine.png
+ ┃ ┣ 📜movie_id_titles.csv
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜Recommendation_System_(Kaggle_Solution).ipynb
+ ┃ ┣ 📜Recommendation_System_1.html
+ ┃ ┣ 📜Recommendation_System_1.ipynb
+ ┃ ┣ 📜Recommendation_System_2.html
+ ┃ ┣ 📜Recommendation_System_2.ipynb
+ ┃ ┣ 📜tmdb_5000_credits.csv
+ ┃ ┣ 📜tmdb_5000_movies.csv
+ ┃ ┣ 📜user_rating.tsv
+ ┃ ┗ 📜Wikipedia_Example.JPG
+ ┣ 📂RL_Intuition
+ ┃ ┣ 📜CartPole-v0.html
+ ┃ ┣ 📜CartPole-v0.ipynb
+ ┃ ┣ 📜Deep_Q-Network.jpg
+ ┃ ┣ 📜edX - Reinforcement Learning Explained.zip
+ ┃ ┣ 📜Escape_Room.py
+ ┃ ┣ 📜FrozenLake-v0.html
+ ┃ ┣ 📜FrozenLake-v0.ipynb
+ ┃ ┗ 📜README.md
+ ┣ 📂Sequence_Models
+ ┃ ┣ 📂Emojify
+ ┃ ┃ ┣ 📜Emojify.html
+ ┃ ┃ ┣ 📜Emojify.ipynb
+ ┃ ┃ ┣ 📜emojify_data.csv
+ ┃ ┃ ┣ 📜test_emoji.csv
+ ┃ ┃ ┗ 📜train_emoji.csv
+ ┃ ┣ 📂IMDB_Reviews
+ ┃ ┃ ┣ 📜IMDB_Reviews.html
+ ┃ ┃ ┗ 📜IMDB_Reviews.ipynb
+ ┃ ┣ 📂NeuralMachineTraslation
+ ┃ ┃ ┣ 📜Seq_to_Seq.html
+ ┃ ┃ ┗ 📜Seq_to_Seq.ipynb
+ ┃ ┣ 📂ShakespeareSonnets
+ ┃ ┃ ┣ 📜ShakespeareSonnets.html
+ ┃ ┃ ┣ 📜ShakespeareSonnets.ipynb
+ ┃ ┃ ┗ 📜sonnet.txt
+ ┃ ┣ 📂TextProcessing
+ ┃ ┃ ┣ 📜SarcasmHeadlinesDataset.zip
+ ┃ ┃ ┣ 📜TextProcessing.html
+ ┃ ┃ ┗ 📜TextProcessing.ipynb
+ ┃ ┣ 📂TransferLearning
+ ┃ ┃ ┣ 📜GloVe.html
+ ┃ ┃ ┗ 📜GloVe.ipynb
+ ┃ ┗ 📜README.md
+ ┣ 📂SOM
+ ┃ ┣ 📜Credit_Card_Applications.csv
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜SelfOrganizingMap.html
+ ┃ ┗ 📜SelfOrganizingMap.ipynb
+ ┣ 📂TensorFlow
+ ┃ ┣ 📂models
+ ┃ ┃ ┣ 📜checkpoint
+ ┃ ┃ ┣ 📜first_model.ckpt.data-00000-of-00001
+ ┃ ┃ ┣ 📜first_model.ckpt.index
+ ┃ ┃ ┗ 📜first_model.ckpt.meta
+ ┃ ┣ 📜auto-mpg.data
+ ┃ ┣ 📜Classification_Diabetes.html
+ ┃ ┣ 📜Classification_Diabetes.ipynb
+ ┃ ┣ 📜Manual_Neural_Network.html
+ ┃ ┣ 📜Manual_Neural_Network.ipynb
+ ┃ ┣ 📜pima_indians_diabetes.csv
+ ┃ ┣ 📜README.md
+ ┃ ┣ 📜Regression_AutoMPG.html
+ ┃ ┣ 📜Regression_AutoMPG.ipynb
+ ┃ ┣ 📜TensorFlow_Basics.html
+ ┃ ┗ 📜TensorFlow_Basics.ipynb
+ ┗ 📜README.md
+</pre>
