@@ -44,5 +44,5 @@ Natural Language Processing
 
 ## ⮚ Datasets-
 ### ⮩ Links:
-* [Sentiment Labelled Sentences Data Set](https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set)
-* [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140)
+* [Sentiment Labelled Sentences Data Set](https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set) (for Sentiment_Analysis)
+* [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140) (for ConvSentimntAnalysis)
