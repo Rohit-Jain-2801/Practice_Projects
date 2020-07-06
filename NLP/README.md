@@ -3,21 +3,22 @@ Natural Language Processing
 
 <br/>
 
-<b>Features-</b>
-+ Tokenization
-+ Stemming & Lemmatization
-+ Parts-of-Speech (POS)
-+ Named Entity Recognition (NER)
-+ Bag-of-Words (BOW) using CountVectorizer
-+ TF-IDF Vectorizer
-+ Topic Modeling - LSA, LDA
-+ Word2Vec
-+ FastText
-+ ConvLayers
+## ⮚ Features-
+### ⮩ Description:
+* Sentiment_Analysis
+  + Tokenization
+  + Stemming & Lemmatization
+  + Parts-of-Speech (POS)
+  + Named Entity Recognition (NER)
+  + Bag-of-Words (BOW) using CountVectorizer
+  + TF-IDF Vectorizer
+  + Topic Modeling - LSA, LDA
+  + Word2Vec
+  + FastText
+* ConvSentimentAnalysis
+  + ConvLayers
 
-<br/>
-
-<b>References-</b>
+### ⮩ References:
 * [50 free Machine Learning datasets: Sentiment Analysis](https://blog.cambridgespark.com/50-free-machine-learning-datasets-sentiment-analysis-b9388f79c124)
 * [15 Free Sentiment Analysis Datasets for Machine Learning](https://lionbridge.ai/datasets/15-free-sentiment-analysis-datasets-for-machine-learning/)
 * [Document classification with word embeddings tutorial](https://github.com/RaRe-Technologies/movie-plots-by-genre/blob/master/ipynb_with_output/Document%20classification%20with%20word%20embeddings%20tutorial%20-%20with%20output.ipynb)
@@ -38,3 +39,10 @@ Natural Language Processing
 * [Gensim Tutorial – A Complete Beginners Guide](https://www.machinelearningplus.com/nlp/gensim-tutorial/)
 * [Gensim Official Documentation](https://radimrehurek.com/gensim/auto_examples/index.html)
 * [Xiamx - Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
+
+<br/>
+
+## ⮚ Datasets-
+### ⮩ Links:
+* [Sentiment Labelled Sentences Data Set](https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set)
+* [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140)
