@@ -3,15 +3,15 @@ Restricted_Boltzmann_Machine
 
 <br/>
 
-## Features-
-### Description:
+## ⮚ Features-
+### ⮩ Description:
 * MNIST Classification Task
 * Implemented using
   + Sklearn's BernoulliRBM + LogisticRegression
   + PyDBM's DeepBoltzmannMachine
 
-### References:
-#### Papers:
+### ⮩ References:
+#### ➙ Papers:
 * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 * [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 * [Notes on Contrastive Divergence](https://www.robots.ox.ac.uk/~ojw/files/NotesOnCD.pdf)
@@ -21,7 +21,7 @@ Restricted_Boltzmann_Machine
 * [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 * [A Spike and Slab Restricted Boltzmann Machine](http://proceedings.mlr.press/v15/courville11a/courville11a.pdf)
 
-#### Blogs & Docs:
+#### ➙ Blogs & Docs:
 * [Deep Learning Tutorials](http://www.deeplearning.net/tutorial/)
 * [Deep Learning meets Physics: Restricted Boltzmann Machines Part II](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
 * [Implementing Restricted Boltzmann Machine with Python and TensorFlow](https://rubikscode.net/2018/10/22/implementing-restricted-boltzmann-machine-with-python-and-tensorflow/)
