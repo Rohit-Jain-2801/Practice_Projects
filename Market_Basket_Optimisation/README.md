@@ -3,10 +3,21 @@ Association Rule Learning - Relation Problem
 
 <br/>
 
-<b>Model:</b>
+## ⮚ Features-
+### ⮩ Description:
++ Association Rule Learning - Relation Problem
+
+### ⮩ Model:
 + Apriori Algorithm
+
+### ⮩ References:
+* [Market Basket Analysis (Kaggle Solution)](https://www.kaggle.com/roshansharma/market-basket-analysis)
 
 <br/>
 
-<b>References:</b>
-* [Market Basket Analysis (Kaggle Solution)](https://www.kaggle.com/roshansharma/market-basket-analysis)
+## ⮚ Dataset-
+### ⮩ Description:
++ Market Basket Analysis is a modelling technique based upon the theory that if you buy a certain group of items, you are more (or less) likely to buy another group of items.
+
+### ⮩ Link:
++ [Market Basket Optimization](https://www.kaggle.com/roshansharma/market-basket-optimization)
