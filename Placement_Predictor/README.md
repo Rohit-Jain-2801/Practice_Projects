@@ -9,10 +9,10 @@ Supervised Learning - Classification + Regression Problem
 + Supervised Learning - Classification + Regression Task
 
 ### ⮩ Models:
-+ Classification
++ **Classification**
   - Decision Tree Classifier
   - Random Forest Classifier
-+ Regression
++ **Regression**
   - PCA (Dimension Reduction) + Linear Regressor
 
 ### ⮩ References:
