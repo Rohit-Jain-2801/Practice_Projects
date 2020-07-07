@@ -4,17 +4,28 @@
 
 ## ⮚ Features-
 ### ⮩ Description:
-+ **Basics** - Basic Operations (ColorSystem, DrawingShapes, AffineTransformations, ImageTranslations, ImageRotation, ScalingImages, ImageBlending, CroppingImage, ArithmeticOperations, BitwiseOperations, Bluring, Sharpening, Thresholding, MorphologicalTransformations, EdgeDetection, PerspectiveTransform, MouseEvents, TrackBar, WaterMark, LiveSketch)
-+ **Basics (Matplotlib)** - All Basics file's output in Matplotlib
-+ **BLOB** - Binary Large OBject (Counting Circles & Ellipses)
-+ **Computational_Photography** - ImageDenoising, ImageInpainting, HighDynamicRange (HDR)
-+ **Contours** - BoundingObject (Sorting by Area/Position/Perimeter, Approximation, ConvexHull, Bounding, ExtremePoints, Searching/Identifying Shapes, Motion Detection & Tracking)
-+ **HAAR Cascade Classifiers** - Face, Eye, Pedistrian, Car Detection
-+ **Hough** - LineDetection (HoughLines, ProbabilisticHoughLines), CircleDetection (HoughCircles)
-+ **LandMarks** - FacialLandmarks, MergingFaces, YawnDetector
-+ **Object Tracking** - FilteringByColor, Background/Foreground Subtraction, Meanshift/Camshift/Lucas-KanadeOpticalFlow/DenseOpticalFlow
-+ **Object_Detection** - TemplateMatching, Harris/Shi-Tomasi CornerDetecion, SIFT/SURF/FAST/BRIEF/ORB FeatureDetection, Histogram-of-OrientedGradients (HoG)
-+ **OCR using ML** - Handwritten-DigitRecognition with KNNClassifier
++ **Basics**
+  - Basic Operations (ColorSystem, DrawingShapes, AffineTransformations, ImageTranslations, ImageRotation, ScalingImages, ImageBlending, CroppingImage, ArithmeticOperations, BitwiseOperations, Bluring, Sharpening, Thresholding, MorphologicalTransformations, EdgeDetection, PerspectiveTransform, MouseEvents, TrackBar, WaterMark, LiveSketch)
++ **Basics (Matplotlib)**
+  - All Basics file's output in Matplotlib
++ **BLOB**
+  - Binary Large OBject (Counting Circles & Ellipses)
++ **Computational_Photography**
+  - ImageDenoising, ImageInpainting, HighDynamicRange (HDR)
++ **Contours**
+  - BoundingObject (Sorting by Area/Position/Perimeter, Approximation, ConvexHull, Bounding, ExtremePoints, Searching/Identifying Shapes, Motion Detection & Tracking)
++ **HAAR Cascade Classifiers**
+  - Face, Eye, Pedistrian, Car Detection
++ **Hough**
+  - LineDetection (HoughLines, ProbabilisticHoughLines), CircleDetection (HoughCircles)
++ **LandMarks**
+  - FacialLandmarks, MergingFaces, YawnDetector
++ **Object Tracking**
+  - FilteringByColor, Background/Foreground Subtraction, Meanshift/Camshift/Lucas-KanadeOpticalFlow/DenseOpticalFlow
++ **Object_Detection**
+  - TemplateMatching, Harris/Shi-Tomasi CornerDetecion, SIFT/SURF/FAST/BRIEF/ORB FeatureDetection, Histogram-of-OrientedGradients (HoG)
++ **OCR using ML**
+  - Handwritten-DigitRecognition with KNNClassifier
 
 ### ⮩ References:
 + Official Documentation
