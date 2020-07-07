@@ -5,7 +5,7 @@ Natural Language Processing
 
 ## ⮚ Features-
 ### ⮩ Description:
-* Sentiment_Analysis
+* **Sentiment_Analysis**
   + Tokenization
   + Stemming & Lemmatization
   + Parts-of-Speech (POS)
@@ -15,7 +15,7 @@ Natural Language Processing
   + Topic Modeling - LSA, LDA
   + Word2Vec
   + FastText
-* ConvSentimentAnalysis
+* **ConvSentimentAnalysis**
   + ConvLayers
 
 ### ⮩ References:
