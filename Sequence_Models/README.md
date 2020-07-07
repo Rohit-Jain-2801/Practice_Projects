@@ -3,7 +3,17 @@ Working with sequences!
 
 <br/>
 
-## References-
+## Features-
+### Description:
+* **TextProcessing**
+* **IMDB_Reviews**
+* **Emojify**
+* **TransferLearning**
+* **ShakespeareSonnets**
+* **NeuralMachineTranslation**
+
+### References:
+#### Papers:
 * [On the Properties of Neural Machine Translation: Encoder–Decoder Approaches](https://arxiv.org/pdf/1409.1259.pdf)
 * [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (GRU)](https://arxiv.org/pdf/1412.3555.pdf)
 * [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
@@ -27,8 +37,7 @@ Working with sequences!
 * [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)
 * [Bi-Directional Attention Flow For Machine Comprehension (BiDAF)](https://arxiv.org/pdf/1611.01603.pdf)
 
-<br/>
-
+#### Blogs & Docs:
 * [Medium - Michele Cavaioni](https://medium.com/@mikecavs)
 * [Recurrent Neural Networks](https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce)
 * [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
@@ -72,6 +81,7 @@ Working with sequences!
 <br/>
 
 ## Datasets-
+### Links:
 * [Tab-delimited Bilingual Sentence Pairs](http://www.manythings.org/anki/)
 * [Emojify](https://www.kaggle.com/alvinrindra/emojify)
 * [Sonnet](https://www.kaggle.com/jojo096/sonnet)
