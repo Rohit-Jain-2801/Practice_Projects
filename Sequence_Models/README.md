@@ -42,6 +42,8 @@ Working with sequences!
 * [Advancing Acoustic-to-Word CTC Model with Attention and Mixed-Units](https://arxiv.org/pdf/1812.11928.pdf)
 * [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)
 * [Bi-Directional Attention Flow For Machine Comprehension (BiDAF)](https://arxiv.org/pdf/1611.01603.pdf)
+* [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/pdf/1601.06733.pdf)
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
 #### ➝ Blogs & Docs:
 * [Medium - Michele Cavaioni](https://medium.com/@mikecavs)
