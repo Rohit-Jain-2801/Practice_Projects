@@ -4,9 +4,9 @@
 
 ## ⮚ Features-
 ### ⮩ Description:
-+ Recommendation_System_1
++ **Recommendation_System_1**
     - WeightedCollaborativeRecommenderSystem, Content-Based/Cognitive RecommenderSystem
-+ Recommendation_System_2
++ **Recommendation_System_2**
     - CollaborativeRecommenderSystem (Item/User Based: Correlation, CosineSimilarity, MatrixFactorization)
 
 ### ⮩ Reference:

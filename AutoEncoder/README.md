@@ -41,6 +41,7 @@ Unsupervised Deep Learning
 * [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
 * [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
 * [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf)
+* [Winner-Take-All Autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
 
 #### ➙ Blogs & Docs:
 * [Jeremy Jordan Blog](https://www.jeremyjordan.me/data-science/)
@@ -82,6 +83,7 @@ Unsupervised Deep Learning
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [What's the input to the decoder in a sequence to sequence autoencoder?](https://cs.stackexchange.com/questions/69432/whats-the-input-to-the-decoder-in-a-sequence-to-sequence-autoencoder)
 * [Ikhlestov - RBM-based_Autoencoders_with_Tensorflow](https://github.com/ikhlestov/rbm_based_autoencoders_with_tensorflow)
+* [Guoguo12 - Tensorflow-fcwta](https://github.com/guoguo12/tensorflow-fcwta)
 * Recommender System
   + [RaptorMai - Deep-AutoEncoder-Recommendation](https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation)
   + [How Variational Autoencoders make classical recommender systems obsolete](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
