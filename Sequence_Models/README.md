@@ -16,7 +16,7 @@ Working with sequences!
 * **ShakespeareSonnets**
   + Language Modeling - Predicting next word
 * **NeuralMachineTranslation**
-  + Translator - Seq2Seq, Seq2Seq with Attention (Bahdanau/Luong)
+  + Translator - Seq2Seq, Seq2Seq with Attention (Bahdanau/Luong), Transformer
 
 ### ⮩ References:
 #### ➝ Papers:
@@ -93,6 +93,9 @@ Working with sequences!
   + [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
   + [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
   + [TensorFlow NLP Modelling Toolkit](https://github.com/tensorflow/models/tree/master/official/nlp)
+  + [CyberZHG - keras-transformer](https://github.com/CyberZHG/keras-transformer)
+  + [Zbloss - TransformerModel](https://github.com/zbloss/TransformerModel)
+  + [Luozhouyang - transformers-keras](https://github.com/luozhouyang/transformers-keras)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
 
 <br/>
