@@ -3,7 +3,14 @@ Reinforcement Learning
 
 <br/>
 
-<b>References-</b>
+## ⮚ Features-
+### ⮩ Description:
+
+### ⮩ References:
+#### ➞ Papers:
+* [Reinforcement Learning I: Introduction](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=947C1C78AE35225DD1928F05EB6F010B?doi=10.1.1.32.7692&rep=rep1&type=pdf)
+
+#### ➞ Blogs & Docs:
 * [The Complete Reinforcement Learning Dictionary](https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e)
 * [Reinforcement Learning - Medium.com - Mohammad Ashraf](https://medium.com/@m.elsersy96)
 * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
@@ -12,4 +19,5 @@ Reinforcement Learning
 * [Introduction to Various Reinforcement Learning Algorithms. Part II (TRPO, PPO)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
 * [YouTube.com - Reinforcement Learning - Edureka (Escape_Room)](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 * [YouTube.com - Reinforcement Learning - Deeplizard (FrozenLake-v0, CartPole-v0)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
-* [DennyBritz - Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)
+* [Reinforcement Learning - GitHub.com - DennyBritz](https://github.com/dennybritz/reinforcement-learning)
+* [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
