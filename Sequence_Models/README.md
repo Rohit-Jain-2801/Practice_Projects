@@ -51,6 +51,8 @@ Working with sequences!
 * [Language Models are Unsupervised Multitask Learners (OpenAI GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 * [Gaussian Error Linear Unit (GELUs)](https://arxiv.org/pdf/1606.08415.pdf)
+* [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/pdf/1905.07129.pdf)
+* [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)](https://arxiv.org/pdf/1910.10683.pdf)
 
 #### ➝ Blogs & Docs:
 * [Medium - Michele Cavaioni](https://medium.com/@mikecavs)
@@ -106,7 +108,8 @@ Working with sequences!
 * [Google-Research - BERT](https://github.com/google-research/bert)
 * [3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
-* [GLUE](https://gluebenchmark.com/)
+* [GLUE Benchmark](https://gluebenchmark.com/)
+* [YouTube - ChrisMcCormickAI](https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos)
 
 <br/>
 
