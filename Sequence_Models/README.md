@@ -43,8 +43,14 @@ Working with sequences!
 * [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)
 * [Bi-Directional Attention Flow For Machine Comprehension (BiDAF)](https://arxiv.org/pdf/1611.01603.pdf)
 * [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/pdf/1601.06733.pdf)
-* [Attention Is All You Need (Transformers)](https://arxiv.org/pdf/1706.03762.pdf)
+* [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
+* [Deep contextualized word representations (ELMo)](https://arxiv.org/pdf/1802.05365.pdf)
+* [Universal Language Model Fine-tuning for Text Classification (ULMFiT)](https://arxiv.org/pdf/1801.06146.pdf)
+* [Attention Is All You Need (Transformer)](https://arxiv.org/pdf/1706.03762.pdf)
+* [Improving Language Understanding by Generative Pre-Training (OpenAI Transformer)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+* [Language Models are Unsupervised Multitask Learners (OpenAI GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+* [Gaussian Error Linear Unit (GELUs)](https://arxiv.org/pdf/1606.08415.pdf)
 
 #### ➝ Blogs & Docs:
 * [Medium - Michele Cavaioni](https://medium.com/@mikecavs)
@@ -96,7 +102,11 @@ Working with sequences!
   + [CyberZHG - keras-transformer](https://github.com/CyberZHG/keras-transformer)
   + [Zbloss - TransformerModel](https://github.com/zbloss/TransformerModel)
   + [Luozhouyang - transformers-keras](https://github.com/luozhouyang/transformers-keras)
+* [GELU activation](https://medium.com/@shoray.goel/gelu-gaussian-error-linear-unit-4ec59fb2e47c)
+* [Google-Research - BERT](https://github.com/google-research/bert)
+* [3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)
 * [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
+* [GLUE](https://gluebenchmark.com/)
 
 <br/>
 
