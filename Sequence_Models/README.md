@@ -47,10 +47,14 @@ Working with sequences!
 * [Deep contextualized word representations (ELMo)](https://arxiv.org/pdf/1802.05365.pdf)
 * [Universal Language Model Fine-tuning for Text Classification (ULMFiT)](https://arxiv.org/pdf/1801.06146.pdf)
 * [Attention Is All You Need (Transformer)](https://arxiv.org/pdf/1706.03762.pdf)
-* [Improving Language Understanding by Generative Pre-Training (OpenAI Transformer)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+* [Improving Language Understanding by Generative Pre-Training (OpenAI GPT)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 * [Language Models are Unsupervised Multitask Learners (OpenAI GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+* [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf)
+* [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations](https://arxiv.org/pdf/1909.11942.pdf)
 * [Gaussian Error Linear Unit (GELUs)](https://arxiv.org/pdf/1606.08415.pdf)
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)
+* [ELECTRA: Pre-Training Text Encoders as Discriminators Rather than Generators](https://arxiv.org/pdf/2003.10555.pdf)
 * [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/pdf/1905.07129.pdf)
 * [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)](https://arxiv.org/pdf/1910.10683.pdf)
 
@@ -107,9 +111,10 @@ Working with sequences!
 * [GELU activation](https://medium.com/@shoray.goel/gelu-gaussian-error-linear-unit-4ec59fb2e47c)
 * [Google-Research - BERT](https://github.com/google-research/bert)
 * [3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)
-* [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
 * [GLUE Benchmark](https://gluebenchmark.com/)
 * [YouTube - ChrisMcCormickAI](https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos)
+* [Divide Hugging Face Transformers training time by 2 or more with dynamic padding and uniform length batching](https://towardsdatascience.com/divide-hugging-face-transformers-training-time-by-2-or-more-21bf7129db9q-21bf7129db9e)
+* [OK Google, Tell Me How Trigger Word Detection works](https://medium.com/x8-the-ai-community/ok-google-tell-me-how-trigger-word-detection-works-f6f877e2cd8b)
 
 <br/>
 
