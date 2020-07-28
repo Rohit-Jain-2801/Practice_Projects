@@ -77,6 +77,7 @@ Convolutional_Neural_Network
   + [One Shot learning, Siamese networks and Triplet Loss with Keras](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)
   + [Face Alignment for Face Recognition in Python within OpenCV](https://sefiks.com/2020/02/23/face-alignment-for-face-recognition-in-python-within-opencv/)
   + [Race and Ethnicity Prediction in Keras](https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/)
+  + [How Does A Face Detection Program Work? (Using Neural Networks)](https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff)
 * [Visualizing intermediate activation in Convolutional Neural Networks with Keras](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0)
 * [Add Labels and Text to Matplotlib Plots: Annotation Examples](http://queirozf.com/entries/add-labels-and-text-to-matplotlib-plots-annotation-examples)
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
