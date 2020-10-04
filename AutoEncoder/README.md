@@ -97,6 +97,7 @@ Unsupervised Deep Learning
 * Reverse Image Search
   + [Reverse Image Search using Auto-Encoders](https://towardsdatascience.com/reverse-image-search-using-auto-encoders-afbf906970f5)
   + [Content Based Image Retrieval Using a Convolutional Denoising Autoencoder with Keras](https://www.sicara.ai/blog/2017-09-14-keras-tutorial-content-image-retrieval-convolutional-denoising-autoencoder)
+* [Ayulockin - DeepImageInPainting](https://github.com/ayulockin/deepimageinpainting)
 
 <br/>
 
