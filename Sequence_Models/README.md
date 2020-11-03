@@ -82,6 +82,7 @@ Working with sequences!
   + [Doubts regarding Understanding Keras LSTMs](https://stackoverflow.com/questions/53955093/doubts-regarding-understanding-keras-lstms)
   + [Keras LSTM tutorial – How to easily build a powerful deep learning language model](https://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 * Attention Mechanism
+  + [How Does Attention Work in Encoder-Decoder Recurrent Neural Networks](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/#:~:text=Attention%20is%20proposed%20as%20a%20method%20to%20both%20align%20and%20translate.&text=generated%20target%20words.-,%E2%80%94%20Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate,for%20each%20output%20time%20step.)
   + [Attention — Seq2Seq Models](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263)
   + [Seq2seq pay Attention to Self Attention: Part 1](https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-d332e85e9aad)
   + [Implementing Neural Machine Translation with Attention mechanism using Tensorflow](https://towardsdatascience.com/implementing-neural-machine-translation-with-attention-using-tensorflow-fc9c6f26155f)
