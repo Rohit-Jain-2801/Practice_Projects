@@ -49,6 +49,7 @@ Convolutional_Neural_Network
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
 * [First Order Motion Model for Image Animation](https://arxiv.org/pdf/2003.00196.pdf)
 * [Global Context-Aware Progressive Aggregation Network for Salient Object Detection](https://arxiv.org/pdf/2003.00651.pdf)
+* [An Image is Worth 16x16 Words: Transformes For Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 
 #### ➙ Blogs & Docs:
 * [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
