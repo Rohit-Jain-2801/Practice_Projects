@@ -5,19 +5,20 @@ Convolutional_Neural_Network
 
 ## ⮚ Features-
 ### ⮩ Description:
-* **ColorClassification** - (OpenCV + DistanceFormula) / TensorFlow
-* **DogsVsCats** - ImageClassificationTask (FlowFromDirectory)
-* FaceDetection
-  + **FaceDetection** - DeepFace / (KerasFacenet & Mira + Sklearn)
-  + **SiameseNetworkWithTripletLoss** - Face Detection & Verification
-* **FashionMNIST** - ImageClassificationTask (TensorFlowDataset)
-* **HorsesVsHumans** - ImageClassificationTask (FlowFromDirectory)
-* **IntelImageClassification** - ImageClassificationTask (FlowFromDirectory + TransferLearning)
-* **NeuralStyleTransfer** - TensorFlowHub / TensorFlow-OnScratch
-* **RCNN** - Mask Region-Based CNN
-* **SignLanguageMNIST** - ImageClassificationTask (ExtractFromCSV)
-* **TensorFlowForPoets** - ImageClassificationTask (tensorflow_datasets)
-* **YOLO** - Object Localization (TensorFlow / OpenCV)
+| Task Name | Task Type | Comments |
+| :-------: | :-------: | :------: |
+| **ColorClassification** | Image Classification | (OpenCV + DistanceFormula) <br/> TensorFlow |
+| **DogsVsCats** | Image Classification | TF's FlowFromDirectory |
+| **FaceDetection** - FaceDetection | Object Localization | DeepFace <br/> (KerasFacenet & Mira + Sklearn) |
+| **FaceDetection** - SiameseNetworkWithTripletLoss | Object Localization | Face Detection & Verification |
+| **FashionMNIST** | Image Classification | TF's Keras Dataset |
+| **HorsesVsHumans** | Image Classification | TF's FlowFromDirectory |
+| **IntelImageClassification** | Image Classification | (TF's FlowFromDirectory + TransferLearning) |
+| **NeuralStyleTransfer** | | TensorFlowHub <br/> TensorFlow-OnScratch |
+| **RCNN** | Object Localization | Mask Region-Based CNN |
+| **SignLanguageMNIST** | Image Classification | ExtractFromCSV |
+| **TensorFlowForPoets** | Image Classification | TF's Datasets (tfds) |
+| **YOLO** | Object Localization | TensorFlow <br/> OpenCV |
 
 ### ⮩ References:
 #### ➙ Papers:
