@@ -44,6 +44,7 @@ Unsupervised Deep Learning
 * [Winner-Take-All Autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
 
 #### ➙ Blogs & Docs:
+* [TensorFlow Custom training, Transfer learning & Custom layers](https://jonathan-hui.medium.com/tensorflow-custom-training-transfer-learning-custom-layers-b1b2a753faf6)
 * [Jeremy Jordan Blog](https://www.jeremyjordan.me/data-science/)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Keras - Code Examples](https://keras.io/examples/)
