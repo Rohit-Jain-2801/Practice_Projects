@@ -29,7 +29,9 @@ Convolutional_Neural_Network
 * [Network In Network (1x1 Convolutions)](https://arxiv.org/pdf/1312.4400.pdf)
 * [Going Deeper with Convolutions (GoogLeNet/Inception Network)](https://arxiv.org/pdf/1409.4842v1.pdf)
 * [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (Convolution Implementation of Sliding Windows)](https://arxiv.org/pdf/1312.6229.pdf)
-* [You Only Look Once: Unified, Real-Time Object Detection (YOLO)](https://pjreddie.com/media/files/papers/yolo.pdf)
+* [You Only Look Once: Unified, Real-Time Object Detection (YOLO)](https://arxiv.org/pdf/1506.02640.pdf)
+* [YOLO9000: Better, Faster, Stronger (YOLOv2)](https://arxiv.org/pdf/1612.08242.pdf)
+* [YOLOv3: An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)
 * [Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)](https://arxiv.org/pdf/1311.2524.pdf)
 * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
@@ -38,6 +40,7 @@ Convolutional_Neural_Network
 * [Panoptic Segmentation](https://arxiv.org/pdf/1801.00868.pdf)
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
+* [Focal Loss for Dense Object Detection (RetinaNet)](https://arxiv.org/pdf/1708.02002.pdf)
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
@@ -140,6 +143,7 @@ Convolutional_Neural_Network
 * [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)
 * [Analytics Vidhya - Pultik Sharma](https://www.analyticsvidhya.com/blog/author/pulkits/)
 * [Awsome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Natowi - 3D-Reconstruction-with-Neural-Network](https://github.com/natowi/3D-Reconstruction-with-Neural-Network)
 
 <br/>
