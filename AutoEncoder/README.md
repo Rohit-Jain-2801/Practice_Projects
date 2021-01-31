@@ -42,6 +42,7 @@ Unsupervised Deep Learning
 * [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/pdf/1502.04681.pdf)
 * [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf)
 * [Winner-Take-All Autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
+* [Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders](https://arxiv.org/abs/2002.07514)
 
 #### ➙ Blogs & Docs:
 * [TensorFlow Custom training, Transfer learning & Custom layers](https://jonathan-hui.medium.com/tensorflow-custom-training-transfer-learning-custom-layers-b1b2a753faf6)
