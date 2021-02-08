@@ -9,6 +9,7 @@ Reinforcement Learning
 ### ⮩ References:
 #### ➞ Papers:
 * [Reinforcement Learning I: Introduction](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=947C1C78AE35225DD1928F05EB6F010B?doi=10.1.1.32.7692&rep=rep1&type=pdf)
+* [The Theory of Dynamic Programming](https://www.rand.org/pubs/papers/P550.html)
 
 #### ➞ Blogs & Docs:
 * [The Complete Reinforcement Learning Dictionary](https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e)
@@ -20,4 +21,3 @@ Reinforcement Learning
 * [YouTube.com - Reinforcement Learning - Edureka (Escape_Room)](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 * [YouTube.com - Reinforcement Learning - Deeplizard (FrozenLake-v0, CartPole-v0)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Reinforcement Learning - GitHub.com - DennyBritz](https://github.com/dennybritz/reinforcement-learning)
-* [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
